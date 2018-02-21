@@ -33,7 +33,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-02-06T04:57:25Z</date>
+						<date>2018-02-21T18:29:14Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -77,16 +77,6 @@
 								</data>
 								<key>Size</key>
 								<integer>161836</integer>
-							</dict>
-							<key>files/recaptcha-edit.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								/T9lI03zhz1B
-								nbUBGULN1Q==
-								</data>
-								<key>Size</key>
-								<integer>3161</integer>
 							</dict>
 							<key>files/small_525333.png</key>
 							<dict>
@@ -228,16 +218,6 @@
 								<key>Size</key>
 								<integer>68548</integer>
 							</dict>
-							<key>files/stacks_in_p525893_n18_page47_recaptcha.php</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								jZLsFFYWPzD1
-								+bPQVBSIwg==
-								</data>
-								<key>Size</key>
-								<integer>980</integer>
-							</dict>
 							<key>files/stacks_in_p525893_n7_page47_export.php</key>
 							<dict>
 								<key>Digest</key>
@@ -282,11 +262,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								zfREGLIHx3FC
-								DWfEmkdYsA==
+								B4FPe2eE+pSl
+								AjNKcTfCyA==
 								</data>
 								<key>Size</key>
-								<integer>205018</integer>
+								<integer>204933</integer>
 							</dict>
 							<key>files/stacks_page_page47.js</key>
 							<dict>
@@ -302,11 +282,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								y+HFnnGJSC6O
-								QuUUzA6CtA==
+								24G4GoxkhEii
+								b9lGrrwz5A==
 								</data>
 								<key>Size</key>
-								<integer>101304</integer>
+								<integer>100481</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

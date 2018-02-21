@@ -33,7 +33,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-02-06T04:57:25Z</date>
+						<date>2018-02-21T18:29:14Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -107,16 +107,6 @@
 								</data>
 								<key>Size</key>
 								<integer>283695</integer>
-							</dict>
-							<key>files/recaptcha-edit.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								/T9lI03zhz1B
-								nbUBGULN1Q==
-								</data>
-								<key>Size</key>
-								<integer>3161</integer>
 							</dict>
 							<key>files/small_305061.png</key>
 							<dict>
@@ -298,16 +288,6 @@
 								<key>Size</key>
 								<integer>81683</integer>
 							</dict>
-							<key>files/small_305818.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								DNQsSlf9cE3O
-								48Vq/iMvvg==
-								</data>
-								<key>Size</key>
-								<integer>57727</integer>
-							</dict>
 							<key>files/small_305829.png</key>
 							<dict>
 								<key>Digest</key>
@@ -317,6 +297,16 @@
 								</data>
 								<key>Size</key>
 								<integer>279755</integer>
+							</dict>
+							<key>files/small_305897.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								DNQsSlf9cE3O
+								48Vq/iMvvg==
+								</data>
+								<key>Size</key>
+								<integer>57727</integer>
 							</dict>
 							<key>files/small_p60311_n109623.png</key>
 							<dict>
@@ -337,16 +327,6 @@
 								</data>
 								<key>Size</key>
 								<integer>68548</integer>
-							</dict>
-							<key>files/stacks_in_p305887_n18_page0_recaptcha.php</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								jZLsFFYWPzD1
-								+bPQVBSIwg==
-								</data>
-								<key>Size</key>
-								<integer>980</integer>
 							</dict>
 							<key>files/stacks_in_p305887_n7_page0_export.php</key>
 							<dict>
@@ -392,11 +372,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								RVoN3ctf/7NR
-								EVhKYvY9rg==
+								9LsbYOpDOqjy
+								FVKgNzsyNg==
 								</data>
 								<key>Size</key>
-								<integer>263332</integer>
+								<integer>264409</integer>
 							</dict>
 							<key>files/stacks_page_page0.js</key>
 							<dict>
@@ -412,11 +392,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								kkqBD/+pDRXu
-								/gin8VTeRw==
+								xOQbUBDGx3ov
+								KM/+HU1zGA==
 								</data>
 								<key>Size</key>
-								<integer>161572</integer>
+								<integer>161273</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
