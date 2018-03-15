@@ -26,14 +26,14 @@
 					<key>Name</key>
 					<string>Stacks</string>
 					<key>Version</key>
-					<string>3.5.7</string>
+					<string>3.5.8</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-03-06T18:44:30Z</date>
+						<date>2018-03-15T18:12:58Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -72,41 +72,41 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								gjYweolUejiI
-								gevulHoS0g==
+								7gHjgs4MLz/Z
+								T11rs4yZxg==
 								</data>
 								<key>Size</key>
-								<integer>4400</integer>
+								<integer>4408</integer>
 							</dict>
 							<key>files/stacks_in_109626_page43_phpinsert.php</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								CYD9H6hdQo7o
-								jTR6AypHKg==
+								p/ECQ6L6eKr0
+								lqJu6TDf0Q==
 								</data>
 								<key>Size</key>
-								<integer>7902</integer>
+								<integer>7910</integer>
 							</dict>
 							<key>files/stacks_in_109626_page43_phpmailer.php</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								cbSMpCGdiLi7
-								X5kFkO9c/w==
+								DvnFQh9G4iU8
+								tTZA1VyY7w==
 								</data>
 								<key>Size</key>
-								<integer>10749</integer>
+								<integer>10757</integer>
 							</dict>
 							<key>files/stacks_in_109626_page43_phpmailer2.php</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								nxoYYeWREy8g
-								ZHLeA/YwcQ==
+								5+Y5ATqEX2lE
+								QP8c7bs2YQ==
 								</data>
 								<key>Size</key>
-								<integer>10618</integer>
+								<integer>10626</integer>
 							</dict>
 							<key>files/stacks_in_109637_page43_recaptcha.php</key>
 							<dict>
@@ -122,31 +122,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								bOoBT9D15mIi
-								0tjCtzIdVA==
+								S1uPKF0e0T7D
+								xCE6qLECXw==
 								</data>
 								<key>Size</key>
-								<integer>131105</integer>
+								<integer>132131</integer>
 							</dict>
 							<key>files/stacks_page_page43.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								WI2i2kb2vJFN
-								Ur0wshW4MQ==
+								Vb2Z6SZYKnMt
+								l5stLwPpJg==
 								</data>
 								<key>Size</key>
-								<integer>31454</integer>
+								<integer>33252</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								d11t7aRxW5Fp
-								1dDvKGZ2wA==
+								4fHVvRm6EXw/
+								Tvlauc6v0w==
 								</data>
 								<key>Size</key>
-								<integer>43937</integer>
+								<integer>43832</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

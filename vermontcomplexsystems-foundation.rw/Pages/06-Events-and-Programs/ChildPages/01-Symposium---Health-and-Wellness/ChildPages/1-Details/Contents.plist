@@ -26,18 +26,28 @@
 					<key>Name</key>
 					<string>Stacks</string>
 					<key>Version</key>
-					<string>3.5.7</string>
+					<string>3.5.8</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-03-06T18:44:30Z</date>
+						<date>2018-03-15T18:12:58Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
+							<key>files/pin.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								xcy6OK5dO/8V
+								xnwWql1CCA==
+								</data>
+								<key>Size</key>
+								<integer>3950</integer>
+							</dict>
 							<key>files/small_109809.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -162,37 +172,47 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								RTQFoC9PyL3d
-								/O+ki/+rCQ==
+								AggU/2v3OUHH
+								MAePzxwHNQ==
 								</data>
 								<key>Size</key>
-								<integer>135066</integer>
+								<integer>136473</integer>
 							</dict>
 							<key>files/stacks_page_page46.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								ylmte3nKqQ36
-								zhQlPn7VjA==
+								qfhiYboZ/A24
+								Y5+sJmVgQw==
 								</data>
 								<key>Size</key>
-								<integer>27447</integer>
+								<integer>31970</integer>
+							</dict>
+							<key>files/stacks_page_page46.php</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								hqceX0Euwn0e
+								stcVNbl0FA==
+								</data>
+								<key>Size</key>
+								<integer>922</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								nZt8UGvdpww4
-								eX2vcHcxZw==
+								sSCbesHelcPN
+								3I/dj6bhCQ==
 								</data>
 								<key>Size</key>
-								<integer>59083</integer>
+								<integer>59498</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page46</string>
 						<key>SiteRoot</key>
-						<string>education/events/health-and-wellness/details</string>
+						<string>events/health-and-wellness/details</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>

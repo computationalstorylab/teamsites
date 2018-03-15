@@ -26,14 +26,14 @@
 					<key>Name</key>
 					<string>Stacks</string>
 					<key>Version</key>
-					<string>3.5.7</string>
+					<string>3.5.8</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-03-06T18:44:30Z</date>
+						<date>2018-03-15T18:12:58Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -92,37 +92,37 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								/zb4DtA6WwzD
-								OHUc/k+ySw==
+								QkbMNbl5LYZ0
+								CHpHb/Ce7g==
 								</data>
 								<key>Size</key>
-								<integer>137427</integer>
+								<integer>138453</integer>
 							</dict>
 							<key>files/stacks_page_page35.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								DE4las0XGdrH
-								u3eRghICVA==
+								yB9eyt4sVms8
+								Pt0nZddqkA==
 								</data>
 								<key>Size</key>
-								<integer>27447</integer>
+								<integer>28346</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								pPbKxwgh1l3f
-								a+A9MLaBWw==
+								fxz0msd09abb
+								ihcHOtskfA==
 								</data>
 								<key>Size</key>
-								<integer>47340</integer>
+								<integer>47099</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page35</string>
 						<key>SiteRoot</key>
-						<string>education/events/science-of-stories</string>
+						<string>events/science-of-stories</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>

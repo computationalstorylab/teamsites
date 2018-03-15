@@ -33,7 +33,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-03-06T18:44:30Z</date>
+						<date>2018-03-15T18:12:58Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -112,37 +112,37 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								hUx5WQQsEVf9
-								eAooV9MPQA==
+								a8WCpnkw7px1
+								Vuadn0h9IA==
 								</data>
 								<key>Size</key>
-								<integer>133316</integer>
+								<integer>134342</integer>
 							</dict>
 							<key>files/stacks_page_page34.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								Yettoz7ibnDk
-								B+dFTSgCRg==
+								+hnSAfZLI2NG
+								BT9VD1AL+w==
 								</data>
 								<key>Size</key>
-								<integer>27447</integer>
+								<integer>28346</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								w958KwabNici
-								dCd1LCkjmg==
+								c4Vk8X/jw0Wu
+								7QtQ6d/gTQ==
 								</data>
 								<key>Size</key>
-								<integer>46222</integer>
+								<integer>45994</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page34</string>
 						<key>SiteRoot</key>
-						<string>education/events/health-and-wellness</string>
+						<string>events/health-and-wellness</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>

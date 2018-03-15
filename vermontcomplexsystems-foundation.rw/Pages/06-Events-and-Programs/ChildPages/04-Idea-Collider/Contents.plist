@@ -26,14 +26,14 @@
 					<key>Name</key>
 					<string>Stacks</string>
 					<key>Version</key>
-					<string>3.5.7</string>
+					<string>3.5.8</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-03-06T18:44:30Z</date>
+						<date>2018-03-15T18:12:58Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -82,37 +82,37 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								PBzfaYjvEAz1
-								ZOxHb6LEgQ==
+								iXTtYMYbyJUV
+								tSV62aI4hg==
 								</data>
 								<key>Size</key>
-								<integer>125592</integer>
+								<integer>126618</integer>
 							</dict>
 							<key>files/stacks_page_page37.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								qXZZI7dlyOtB
-								45phZsGLEQ==
+								vIEoXWVsjK55
+								f2oA0uKbvQ==
 								</data>
 								<key>Size</key>
-								<integer>27447</integer>
+								<integer>28346</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								D9UI56E/EEMz
-								bJqYGdumPw==
+								i6VS78j6U0wY
+								MpnnpiK8MA==
 								</data>
 								<key>Size</key>
-								<integer>38081</integer>
+								<integer>37892</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page37</string>
 						<key>SiteRoot</key>
-						<string>education/events/idea-</string>
+						<string>events/idea-</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
