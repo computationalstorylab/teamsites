@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict/>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>01-Symposium---Health-and-Wellness</string>
+				<string>02-Symposium---Science-of-stories</string>
+				<string>03-Complex-Networks-Winter-Workshop</string>
+				<string>04-Idea-Collider</string>
+				<string>05-Research-Jam</string>
+				<string>06-Community-Lectures</string>
+				<string>07-Complex-Systems-Seminars</string>
+				<string>08-Big-Spread002C-Big-Dead</string>
+				<string>09-Prediction003A-The-Next-Big-Thing</string>
+				<string>10-Big-Scale002C-...-Big-Fail003F</string>
+				<string>11-Big-Data002C-Big-Stories</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Pages</string>
+</dict>
+</plist>
