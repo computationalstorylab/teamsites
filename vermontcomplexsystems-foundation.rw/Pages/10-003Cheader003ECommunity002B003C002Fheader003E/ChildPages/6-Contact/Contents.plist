@@ -33,21 +33,11 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-03-25T15:12:44Z</date>
+						<date>2018-03-27T21:39:14Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>files/recaptcha-edit.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								/T9lI03zhz1B
-								nbUBGULN1Q==
-								</data>
-								<key>Size</key>
-								<integer>3161</integer>
-							</dict>
 							<key>files/small_p60311_n109623.png</key>
 							<dict>
 								<key>Digest</key>
@@ -108,45 +98,35 @@
 								<key>Size</key>
 								<integer>10626</integer>
 							</dict>
-							<key>files/stacks_in_109637_page43_recaptcha.php</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								jZLsFFYWPzD1
-								+bPQVBSIwg==
-								</data>
-								<key>Size</key>
-								<integer>980</integer>
-							</dict>
 							<key>files/stacks_page_page43.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								bOoBT9D15mIi
-								0tjCtzIdVA==
+								Nj1uRojIDYBH
+								a59KXbXPFw==
 								</data>
 								<key>Size</key>
-								<integer>131105</integer>
+								<integer>133838</integer>
 							</dict>
 							<key>files/stacks_page_page43.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								WI2i2kb2vJFN
-								Ur0wshW4MQ==
+								Vb2Z6SZYKnMt
+								l5stLwPpJg==
 								</data>
 								<key>Size</key>
-								<integer>31454</integer>
+								<integer>33252</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								7rG5IpLsfzHK
-								K1atoIqlTA==
+								u0e4Ia8TwgN1
+								P5r9tVFa2Q==
 								</data>
 								<key>Size</key>
-								<integer>43880</integer>
+								<integer>43924</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
