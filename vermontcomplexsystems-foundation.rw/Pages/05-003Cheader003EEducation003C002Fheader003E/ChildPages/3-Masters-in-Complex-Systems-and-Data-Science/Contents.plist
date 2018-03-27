@@ -33,7 +33,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-03-21T18:52:36Z</date>
+						<date>2018-03-27T19:01:02Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -147,16 +147,6 @@
 								</data>
 								<key>Size</key>
 								<integer>111754</integer>
-							</dict>
-							<key>files/small_305132.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								tVne4uWHYC72
-								XukfA8I9LA==
-								</data>
-								<key>Size</key>
-								<integer>116800</integer>
 							</dict>
 							<key>files/small_305167.png</key>
 							<dict>
@@ -298,16 +288,6 @@
 								<key>Size</key>
 								<integer>279755</integer>
 							</dict>
-							<key>files/small_305897.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								DNQsSlf9cE3O
-								48Vq/iMvvg==
-								</data>
-								<key>Size</key>
-								<integer>57727</integer>
-							</dict>
 							<key>files/small_p60311_n109623.png</key>
 							<dict>
 								<key>Digest</key>
@@ -372,31 +352,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								t4eG4AanT4LL
-								hVV8GPjIsw==
+								uOhkYMiu2ckK
+								9pl/G4QYmA==
 								</data>
 								<key>Size</key>
-								<integer>265435</integer>
+								<integer>259777</integer>
 							</dict>
 							<key>files/stacks_page_page0.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								tPjyxdhAAm6M
-								bOF9UtHUZg==
+								YO+fo9N9yVDi
+								mw/4Qvxckg==
 								</data>
 								<key>Size</key>
-								<integer>33246</integer>
+								<integer>31448</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								nVuy/Vf+gwiJ
-								AGBBqhXZnA==
+								G0un8IWL/tAt
+								yQravLkPew==
 								</data>
 								<key>Size</key>
-								<integer>161659</integer>
+								<integer>158419</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
