@@ -655,7 +655,7 @@
 					<key>page11 - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-03-28T18:58:43Z</date>
+						<date>2018-04-18T22:35:16Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -694,31 +694,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								89uLkx8H18uH
-								EvsF5PhwTQ==
+								yIRy0HXtK5Ix
+								pzB0dPdU5w==
 								</data>
 								<key>Size</key>
-								<integer>128668</integer>
+								<integer>127642</integer>
 							</dict>
 							<key>files/stacks_page_page11.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								dw+DTBeC4PcY
-								i2Gx7l4aEA==
+								mP0otHmrMsZb
+								IgKSymOxuA==
 								</data>
 								<key>Size</key>
-								<integer>28346</integer>
+								<integer>27447</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								ovuj1OlUhnEK
-								dR01W0xJ5Q==
+								M45hjDdP4DRu
+								ygSu82hyRw==
 								</data>
 								<key>Size</key>
-								<integer>81320</integer>
+								<integer>84332</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -5473,7 +5473,7 @@
 					<key>rw:plugin:stacks - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-03-28T19:17:06Z</date>
+						<date>2018-04-18T22:35:16Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -5892,11 +5892,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								/qgL2e959gOt
-								7ZQba5VZVw==
+								EjncAfH5HdvS
+								uZMIboj+Sg==
 								</data>
 								<key>Size</key>
-								<integer>249636</integer>
+								<integer>199007</integer>
 							</dict>
 							<key>icon.png</key>
 							<dict>
@@ -6502,11 +6502,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								0kfQW53zIY14
-								RUALvUuVSA==
+								1En2lSt2+6wN
+								jg5YYKqSvQ==
 								</data>
 								<key>Size</key>
-								<integer>2727</integer>
+								<integer>2804</integer>
 							</dict>
 							<key>stacks.css</key>
 							<dict>
