@@ -29,7 +29,74 @@
 					<string>3.5.8</string>
 				</dict>
 				<key>PublishingManifests</key>
-				<dict/>
+				<dict>
+					<key>sftp://cmplxsys.w3.uvm.edu</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2018-04-23T20:59:52Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>files/small_p60311_n109623.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								ZFHf9zniv4SK
+								z9ywIWAR7Q==
+								</data>
+								<key>Size</key>
+								<integer>124861</integer>
+							</dict>
+							<key>files/small_p60311_n109628.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								pcpK3KZBcBVd
+								Ns6QdrLpNA==
+								</data>
+								<key>Size</key>
+								<integer>68548</integer>
+							</dict>
+							<key>files/stacks_page_page50.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								tjtn8Td0QMEK
+								E6DF7BIWxA==
+								</data>
+								<key>Size</key>
+								<integer>132419</integer>
+							</dict>
+							<key>files/stacks_page_page50.js</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								z0Tt8mTdcPT5
+								P9hJaQGO2A==
+								</data>
+								<key>Size</key>
+								<integer>28346</integer>
+							</dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								hXAWRsFkkorv
+								dHWIAb4gmA==
+								</data>
+								<key>Size</key>
+								<integer>41427</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page50</string>
+						<key>SiteRoot</key>
+						<string>education/funding</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+				</dict>
 			</dict>
 			<key>Files</key>
 			<array/>
