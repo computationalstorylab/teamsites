@@ -797,7 +797,7 @@
 					<key>page13 - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-03-28T19:06:47Z</date>
+						<date>2018-05-03T22:13:50Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -822,15 +822,35 @@
 								<key>Size</key>
 								<integer>68548</integer>
 							</dict>
-							<key>files/stacks-image-0d315c7.jpg</key>
+							<key>files/stacks-image-02561eb-148x92.png</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								DGS/wO8oeh6w
-								U0JvSysInA==
+								v6Hz2Dy7Hc/V
+								luIcAFPd5g==
 								</data>
 								<key>Size</key>
-								<integer>19630</integer>
+								<integer>16076</integer>
+							</dict>
+							<key>files/stacks-image-0c9f04e-150x98.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								fQA83DERZowh
+								4ItRao9Fow==
+								</data>
+								<key>Size</key>
+								<integer>36473</integer>
+							</dict>
+							<key>files/stacks-image-0d315c7-126x150.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								Q3NjBesQ1ATj
+								eT17sulmZw==
+								</data>
+								<key>Size</key>
+								<integer>10921</integer>
 							</dict>
 							<key>files/stacks-image-20a9b85-148x112.png</key>
 							<dict>
@@ -882,6 +902,16 @@
 								<key>Size</key>
 								<integer>20349</integer>
 							</dict>
+							<key>files/stacks-image-89324ea-150x150.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								Ye6ZtJBxCutB
+								ri5Oi/x/zw==
+								</data>
+								<key>Size</key>
+								<integer>18299</integer>
+							</dict>
 							<key>files/stacks-image-9d5546e-150x188.png</key>
 							<dict>
 								<key>Digest</key>
@@ -932,6 +962,16 @@
 								<key>Size</key>
 								<integer>7771</integer>
 							</dict>
+							<key>files/stacks-image-bde58ff-150x74.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								4y8cx3yZUltW
+								+NV6U2dP5g==
+								</data>
+								<key>Size</key>
+								<integer>25461</integer>
+							</dict>
 							<key>files/stacks-image-bed233e-150x120.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -962,15 +1002,25 @@
 								<key>Size</key>
 								<integer>9772</integer>
 							</dict>
+							<key>files/stacks-image-e0d0fba-148x84.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								4+KPpn+auE1t
+								g30hg3WU5Q==
+								</data>
+								<key>Size</key>
+								<integer>8557</integer>
+							</dict>
 							<key>files/stacks_page_page13.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								SGv2sCS9XuJu
-								sEGJfjZgbw==
+								UgpZSmySDa2k
+								He//T+a0NQ==
 								</data>
 								<key>Size</key>
-								<integer>152241</integer>
+								<integer>146928</integer>
 							</dict>
 							<key>files/stacks_page_page13.js</key>
 							<dict>
@@ -986,11 +1036,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								LvkqAxqtsaqN
-								NPAimxuRKw==
+								bYvZW1oqvfLE
+								NxlTG4dhnw==
 								</data>
 								<key>Size</key>
-								<integer>60941</integer>
+								<integer>61667</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -5753,7 +5803,7 @@
 					<key>rw:document:extrafiles - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-03-28T19:17:06Z</date>
+						<date>2018-05-03T21:58:34Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -5802,11 +5852,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								v44n+2LrRfLY
-								x6I6XCS/tg==
+								eanUb3mnhmFT
+								V9GVFms68g==
 								</data>
 								<key>Size</key>
-								<integer>3162</integer>
+								<integer>3194</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -5819,7 +5869,7 @@
 					<key>rw:plugin:stacks - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-04-23T22:08:43Z</date>
+						<date>2018-05-03T21:58:34Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -6858,11 +6908,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								vokHnv6bDBle
-								3UtETOgyRA==
+								YGiHGpb/hejs
+								DMRPAuOV5w==
 								</data>
 								<key>Size</key>
-								<integer>1963</integer>
+								<integer>2059</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
