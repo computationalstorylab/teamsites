@@ -13,7 +13,13 @@
 			<array/>
 			<key>Subsandwiches</key>
 			<array>
-				<string>1-NetSci-2019-Details</string>
+				<string>1-NetSci-Logistics</string>
+				<string>2-NetSci-Registration</string>
+				<string>3-NetSci-Schedule</string>
+				<string>4-NetSci-Calls</string>
+				<string>5-NetSci-Speakers</string>
+				<string>6-NetSci-Sponsors</string>
+				<string>7-NetSci-Organizers</string>
 			</array>
 		</dict>
 	</array>
