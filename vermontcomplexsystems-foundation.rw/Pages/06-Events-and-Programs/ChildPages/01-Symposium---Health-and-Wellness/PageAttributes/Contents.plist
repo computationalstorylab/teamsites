@@ -20,9 +20,9 @@
 				</dict>
 				<key>ColourStyles</key>
 				<dict>
-					<key>Glide</key>
+					<key>Foundation</key>
 					<dict/>
-					<key>Ruby</key>
+					<key>Veerle</key>
 					<dict/>
 				</dict>
 				<key>CreditRapidWeaver</key>
@@ -50,7 +50,7 @@ margin-bottom:1rem;
 				<key>FolderName</key>
 				<string>health-and-wellness</string>
 				<key>HasCustomThemeStyle</key>
-				<false/>
+				<true/>
 				<key>Hidden</key>
 				<false/>
 				<key>ImageFormat</key>
