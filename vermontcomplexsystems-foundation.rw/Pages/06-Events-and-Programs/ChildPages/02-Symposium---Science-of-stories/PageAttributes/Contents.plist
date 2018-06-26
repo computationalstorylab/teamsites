@@ -12,11 +12,11 @@
 				<key>ChangedStatuses</key>
 				<dict>
 					<key>default</key>
-					<true/>
+					<false/>
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root</key>
-					<true/>
+					<false/>
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
-					<true/>
+					<false/>
 				</dict>
 				<key>ColourStyles</key>
 				<dict>
