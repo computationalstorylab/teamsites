@@ -35,7 +35,11 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
+<<<<<<< HEAD
 						<date>2018-07-10T14:36:27Z</date>
+=======
+						<date>2018-07-10T14:40:51Z</date>
+>>>>>>> Michelle
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -74,8 +78,13 @@
 							<dict>
 								<key>Digest</key>
 								<data>
+<<<<<<< HEAD
 								LTZLFwRVZr9H
 								vr6fb2uaNQ==
+=======
+								1zRJ+v25mdcO
+								SmJAjLtisw==
+>>>>>>> Michelle
 								</data>
 								<key>Size</key>
 								<integer>94447</integer>
@@ -94,11 +103,19 @@
 							<dict>
 								<key>Digest</key>
 								<data>
+<<<<<<< HEAD
 								sq6B6dD0PwSq
 								PDOJ1ZWQdg==
 								</data>
 								<key>Size</key>
 								<integer>36173</integer>
+=======
+								oGnKTT7pd4IB
+								6yZ4vUo+pA==
+								</data>
+								<key>Size</key>
+								<integer>38662</integer>
+>>>>>>> Michelle
 							</dict>
 						</dict>
 						<key>PageID</key>
