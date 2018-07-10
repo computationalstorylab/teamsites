@@ -33,7 +33,11 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
+<<<<<<< HEAD
 						<date>2018-07-09T15:13:28Z</date>
+=======
+						<date>2018-07-09T13:56:29Z</date>
+>>>>>>> parent of a9e189eb... altered octopus image on menu
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -382,11 +386,19 @@
 							<dict>
 								<key>Digest</key>
 								<data>
+<<<<<<< HEAD
 								lP229iBZDF01
 								1Duefndotg==
 								</data>
 								<key>Size</key>
 								<integer>106396</integer>
+=======
+								PdkeYWQIkw4O
+								2FEjz/MWhg==
+								</data>
+								<key>Size</key>
+								<integer>106376</integer>
+>>>>>>> parent of a9e189eb... altered octopus image on menu
 							</dict>
 						</dict>
 						<key>PageID</key>

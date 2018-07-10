@@ -4129,7 +4129,11 @@
 					<key>page46 - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
+<<<<<<< HEAD
 						<date>2018-07-09T15:13:28Z</date>
+=======
+						<date>2018-07-09T14:09:28Z</date>
+>>>>>>> parent of a9e189eb... altered octopus image on menu
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -4488,11 +4492,19 @@
 							<dict>
 								<key>Digest</key>
 								<data>
+<<<<<<< HEAD
 								P0ga95smLC5J
 								nEIhYXQdrQ==
 								</data>
 								<key>Size</key>
 								<integer>114864</integer>
+=======
+								nhlpgShLBXCB
+								welAiDnfgA==
+								</data>
+								<key>Size</key>
+								<integer>114845</integer>
+>>>>>>> parent of a9e189eb... altered octopus image on menu
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -4771,7 +4783,11 @@
 					<key>page48 - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
+<<<<<<< HEAD
 						<date>2018-07-09T15:13:28Z</date>
+=======
+						<date>2018-07-09T13:56:29Z</date>
+>>>>>>> parent of a9e189eb... altered octopus image on menu
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -5120,11 +5136,19 @@
 							<dict>
 								<key>Digest</key>
 								<data>
+<<<<<<< HEAD
 								lP229iBZDF01
 								1Duefndotg==
 								</data>
 								<key>Size</key>
 								<integer>106396</integer>
+=======
+								PdkeYWQIkw4O
+								2FEjz/MWhg==
+								</data>
+								<key>Size</key>
+								<integer>106376</integer>
+>>>>>>> parent of a9e189eb... altered octopus image on menu
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -7167,7 +7191,11 @@
 					<key>rw:document:extrafiles - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
+<<<<<<< HEAD
 						<date>2018-07-09T15:02:31Z</date>
+=======
+						<date>2018-07-09T14:09:28Z</date>
+>>>>>>> parent of a9e189eb... altered octopus image on menu
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -7216,11 +7244,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								DkJA+22y9L7m
-								qQnHRwrBSg==
+								GCcPrA4m8eBo
+								BN2uGveqCw==
 								</data>
 								<key>Size</key>
-								<integer>4134</integer>
+								<integer>4198</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
