@@ -15,12 +15,16 @@
 					<false/>
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root</key>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<false/>
 =======
 					<true/>
 >>>>>>> parent of b8a760b9... First round of Home Page edits
+=======
+					<false/>
+>>>>>>> parent of bce51f8e... Home Page Edits
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
-					<true/>
+					<false/>
 				</dict>
 				<key>ColourStyles</key>
 				<dict>
