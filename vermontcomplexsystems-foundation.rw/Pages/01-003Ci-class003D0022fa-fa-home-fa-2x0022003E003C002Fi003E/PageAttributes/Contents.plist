@@ -12,8 +12,9 @@
 				<key>ChangedStatuses</key>
 				<dict>
 					<key>default</key>
-					<false/>
+					<true/>
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root</key>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -27,8 +28,11 @@
 =======
 					<false/>
 >>>>>>> parent of bce51f8e... Home Page Edits
+=======
+					<true/>
+>>>>>>> JuniperLovato
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
-					<false/>
+					<true/>
 				</dict>
 				<key>ColourStyles</key>
 				<dict/>
