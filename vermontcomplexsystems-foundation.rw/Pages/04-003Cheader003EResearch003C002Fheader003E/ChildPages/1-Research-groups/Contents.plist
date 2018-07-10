@@ -33,65 +33,11 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-<<<<<<< HEAD
 						<date>2018-07-10T14:36:26Z</date>
-=======
-						<date>2018-07-10T14:40:51Z</date>
->>>>>>> Michelle
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>files/small_525373.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								pYiL0hGCaPbQ
-								3RnZwsx0Xg==
-								</data>
-								<key>Size</key>
-								<integer>1690513</integer>
-							</dict>
-							<key>files/small_525379.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								KnLW8tafqbV5
-								Iz+cfRYy7Q==
-								</data>
-								<key>Size</key>
-								<integer>280627</integer>
-							</dict>
-							<key>files/small_525393.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Ydhuiv22wB72
-								0oVB0jtaDQ==
-								</data>
-								<key>Size</key>
-								<integer>30576</integer>
-							</dict>
-							<key>files/small_525407.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								uMd4+vmj17Hm
-								7vaQdq1Hpg==
-								</data>
-								<key>Size</key>
-								<integer>348385</integer>
-							</dict>
-							<key>files/small_525421.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								fXbSEcsq1HUa
-								n4kpmmayNA==
-								</data>
-								<key>Size</key>
-								<integer>264699</integer>
-							</dict>
 							<key>files/small_p60311_n109623.png</key>
 							<dict>
 								<key>Digest</key>
@@ -106,37 +52,71 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-<<<<<<< HEAD
-								u7Dp8hKQVWH1
-								idghLkoaQw==
-								</data>
-								<key>Size</key>
-								<integer>373478</integer>
-=======
 								pcpK3KZBcBVd
 								Ns6QdrLpNA==
 								</data>
 								<key>Size</key>
 								<integer>68548</integer>
->>>>>>> Michelle
+							</dict>
+							<key>files/stacks-image-592e55b-1198x694.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								ghbelQJaJXFo
+								cvKBLf9Nlw==
+								</data>
+								<key>Size</key>
+								<integer>77525</integer>
+							</dict>
+							<key>files/stacks-image-78d12af-1200x900.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								u674U97DpcS8
+								FF3Z8HOISA==
+								</data>
+								<key>Size</key>
+								<integer>145275</integer>
+							</dict>
+							<key>files/stacks-image-8bf4c8f.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								Ydhuiv22wB72
+								0oVB0jtaDQ==
+								</data>
+								<key>Size</key>
+								<integer>30576</integer>
+							</dict>
+							<key>files/stacks-image-fb374a3.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								fXbSEcsq1HUa
+								n4kpmmayNA==
+								</data>
+								<key>Size</key>
+								<integer>264699</integer>
+							</dict>
+							<key>files/stacks-image-fdb7bcb-1198x596.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								u7Dp8hKQVWH1
+								idghLkoaQw==
+								</data>
+								<key>Size</key>
+								<integer>373478</integer>
 							</dict>
 							<key>files/stacks_page_page22.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-<<<<<<< HEAD
 								Umb5UIcgmrGK
 								BRrcUI54dw==
 								</data>
 								<key>Size</key>
 								<integer>93143</integer>
-=======
-								X/yvANt6usw4
-								Pt+Zf1fVVQ==
-								</data>
-								<key>Size</key>
-								<integer>106332</integer>
->>>>>>> Michelle
 							</dict>
 							<key>files/stacks_page_page22.js</key>
 							<dict>
@@ -152,19 +132,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-<<<<<<< HEAD
 								ylI/0X9JPU6Y
 								wpNGx0AfIQ==
 								</data>
 								<key>Size</key>
 								<integer>37131</integer>
-=======
-								NeSDdQfNKovG
-								QB2lZa6vuQ==
-								</data>
-								<key>Size</key>
-								<integer>45594</integer>
->>>>>>> Michelle
 							</dict>
 						</dict>
 						<key>PageID</key>
