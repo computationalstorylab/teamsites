@@ -33,7 +33,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-07-09T14:09:28Z</date>
+						<date>2018-07-10T14:40:51Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -47,16 +47,6 @@
 								</data>
 								<key>Size</key>
 								<integer>571092</integer>
-							</dict>
-							<key>files/pin.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								xcy6OK5dO/8V
-								xnwWql1CCA==
-								</data>
-								<key>Size</key>
-								<integer>3950</integer>
 							</dict>
 							<key>files/small_p60311_n109623.png</key>
 							<dict>
@@ -362,41 +352,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								4A9qwKPpwRic
-								1ZF89qQ/kw==
+								u/ryblKrfvAi
+								lpo/E+TT7Q==
 								</data>
 								<key>Size</key>
-								<integer>148135</integer>
+								<integer>147754</integer>
 							</dict>
 							<key>files/stacks_page_page46.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								j21tkAk98h24
-								lYB+QQItZQ==
+								McjjVV1WXVx4
+								CSux8RyVHg==
 								</data>
 								<key>Size</key>
-								<integer>27973</integer>
-							</dict>
-							<key>files/stacks_page_page46.php</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								hqceX0Euwn0e
-								stcVNbl0FA==
-								</data>
-								<key>Size</key>
-								<integer>922</integer>
+								<integer>24349</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								nhlpgShLBXCB
-								welAiDnfgA==
+								KGUZwDS6c6CV
+								eHrp/ST8pA==
 								</data>
 								<key>Size</key>
-								<integer>114845</integer>
+								<integer>114248</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
