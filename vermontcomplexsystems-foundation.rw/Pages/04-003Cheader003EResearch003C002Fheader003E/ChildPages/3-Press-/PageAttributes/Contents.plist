@@ -14,7 +14,11 @@
 					<key>default</key>
 					<false/>
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root</key>
+<<<<<<< HEAD
 					<false/>
+=======
+					<true/>
+>>>>>>> parent of b8a760b9... First round of Home Page edits
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<true/>
 				</dict>

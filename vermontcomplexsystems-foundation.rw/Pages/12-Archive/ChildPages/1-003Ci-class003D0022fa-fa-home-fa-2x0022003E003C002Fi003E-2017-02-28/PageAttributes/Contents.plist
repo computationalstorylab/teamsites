@@ -16,7 +16,7 @@
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root</key>
 					<false/>
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
-					<false/>
+					<true/>
 				</dict>
 				<key>ColourStyles</key>
 				<dict/>
