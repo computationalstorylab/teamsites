@@ -16,7 +16,7 @@
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root</key>
 					<true/>
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
-					<true/>
+					<false/>
 				</dict>
 				<key>ColourStyles</key>
 				<dict>
@@ -33,8 +33,7 @@
 display:block;
 margin-bottom:1rem;
 }
-
-}</string>
+</string>
 				<key>CustomCopyrightUsed</key>
 				<false/>
 				<key>CustomSiteTitleUsed</key>
