@@ -16,7 +16,7 @@
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root</key>
 					<true/>
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
-					<true/>
+					<false/>
 				</dict>
 				<key>ColourStyles</key>
 				<dict>
@@ -34,6 +34,13 @@ display:block;
 margin-bottom:1rem;
 }
 
+.com_joeworkman_stacks_foundation_reveal_stack:hover {
+	box-shadow: 0 2em 2em rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    -webkit-transform: translateY(0);
+    -webkit-transition: all .6s cubic-bezier(0.165, 0.84, 0.44, 1);
+    transition: all .6s cubic-bezier(0.165, 0.84, 0.44, 1)
+	
 }</string>
 				<key>CustomCopyrightUsed</key>
 				<false/>
