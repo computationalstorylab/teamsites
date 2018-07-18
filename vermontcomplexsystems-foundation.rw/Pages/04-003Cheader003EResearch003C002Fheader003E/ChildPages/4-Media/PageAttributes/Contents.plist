@@ -16,7 +16,7 @@
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root</key>
 					<true/>
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
-					<false/>
+					<true/>
 				</dict>
 				<key>ColourStyles</key>
 				<dict>
@@ -48,7 +48,7 @@ margin-bottom:1rem;
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
-				<string>funding</string>
+				<string>page-2</string>
 				<key>HasCustomThemeStyle</key>
 				<false/>
 				<key>Hidden</key>
