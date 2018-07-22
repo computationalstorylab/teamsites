@@ -22,6 +22,17 @@
 				<true/>
 				<key>CustomCopyrightUsed</key>
 				<false/>
+				<key>CustomHeader</key>
+				<string>&lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;
+&lt;script async src="https://www.googletagmanager.com/gtag/js?id=UA-122716818-1"&gt;&lt;/script&gt;
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122716818-1');
+&lt;/script&gt;
+</string>
 				<key>CustomSiteTitleUsed</key>
 				<false/>
 				<key>CustomSloganUsed</key>
