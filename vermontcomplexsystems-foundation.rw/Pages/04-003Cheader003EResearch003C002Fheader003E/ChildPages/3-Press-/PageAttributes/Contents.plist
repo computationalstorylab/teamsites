@@ -28,13 +28,13 @@
 				<key>CreditRapidWeaver</key>
 				<true/>
 				<key>CustomCSS</key>
-				<string>@media only screen and (max-width: 50em) { 
+				<string>/*@media only screen and (max-width: 50em) { 
 .jack-wrapper h1 small {
 display:block;
 margin-bottom:1rem;
 }
 
-}</string>
+}*/</string>
 				<key>CustomCopyrightUsed</key>
 				<false/>
 				<key>CustomHeader</key>
