@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-07-31T00:34:35Z</date>
+						<date>2018-08-01T23:22:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -114,11 +114,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								6dT/REb5iDWj
-								kVQXD7jXkA==
+								+6V/UgWAHcw6
+								cS9QDDor+w==
 								</data>
 								<key>Size</key>
-								<integer>35091</integer>
+								<integer>35662</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -134,6 +134,7 @@
 			<array/>
 			<key>Subsandwiches</key>
 			<array>
+				<string>ChildPages</string>
 				<string>Data</string>
 				<string>PageAttributes</string>
 			</array>
