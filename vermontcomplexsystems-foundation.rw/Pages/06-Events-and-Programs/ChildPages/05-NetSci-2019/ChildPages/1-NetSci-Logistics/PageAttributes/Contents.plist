@@ -16,7 +16,7 @@
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root</key>
 					<true/>
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
-					<false/>
+					<true/>
 				</dict>
 				<key>ColourStyles</key>
 				<dict>
@@ -34,6 +34,23 @@ display:block;
 margin-bottom:1rem;
 }
 
+}
+
+
+.centered_image{
+	position: revert;
+	width: 600px;
+	height: 400px;
+}
+
+#stacks_in_110540_page52 img{
+	width: 100%;
+	height: 100%;	
+}
+
+
+.orbit-container .orbit-slides-container&gt;* .orbit-caption-side{
+	position: relative;	
 }</string>
 				<key>CustomCopyrightUsed</key>
 				<false/>
