@@ -16,7 +16,7 @@
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>Potential Funding</string>
+				<string>Potential funding</string>
 				<key>PluginClassName</key>
 				<string>YHStacksPlugin</string>
 				<key>PluginMetadata</key>
@@ -33,7 +33,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-08-06T21:30:39Z</date>
+						<date>2018-08-03T17:11:23Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -47,26 +47,6 @@
 								</data>
 								<key>Size</key>
 								<integer>124861</integer>
-							</dict>
-							<key>files/stacks-image-580baf6-248x248.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								OGSW8MSxffNf
-								eqQN8VH97Q==
-								</data>
-								<key>Size</key>
-								<integer>13349</integer>
-							</dict>
-							<key>files/stacks-image-90966db-250x250.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								YpjTgVVBaf31
-								xzRYJpWpzQ==
-								</data>
-								<key>Size</key>
-								<integer>21870</integer>
 							</dict>
 							<key>files/stacks-image-920fdb4-500x166.png</key>
 							<dict>
@@ -98,15 +78,35 @@
 								<key>Size</key>
 								<integer>184293</integer>
 							</dict>
+							<key>files/stacks-image-a5b6257.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								hAKSIa3+ZrXU
+								vEdJbNZi4g==
+								</data>
+								<key>Size</key>
+								<integer>34013</integer>
+							</dict>
+							<key>files/stacks-image-ce6b280.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								u9ob8sB2NjIW
+								EKKV5jmImQ==
+								</data>
+								<key>Size</key>
+								<integer>19050</integer>
+							</dict>
 							<key>files/stacks_page_page50.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								5hiA14HrKnrO
-								vwfTI25hXA==
+								pKwLHEYsXC24
+								i2iOFecLgA==
 								</data>
 								<key>Size</key>
-								<integer>102656</integer>
+								<integer>105074</integer>
 							</dict>
 							<key>files/stacks_page_page50.js</key>
 							<dict>
@@ -122,11 +122,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								lBI3ovEbz6gV
-								A1AWE3gmIQ==
+								rjMcObwZcofG
+								S4YLWLbYVA==
 								</data>
 								<key>Size</key>
-								<integer>40604</integer>
+								<integer>41615</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
