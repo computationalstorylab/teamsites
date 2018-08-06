@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-07-23T17:07:17Z</date>
+						<date>2018-08-04T18:02:23Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -44,11 +44,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								CYUPvubfoHfJ
-								LO6GA2rgrw==
+								jXTfj9nDmtFG
+								PSXCoIbeIg==
 								</data>
 								<key>Size</key>
-								<integer>64832</integer>
+								<integer>69882</integer>
 							</dict>
 							<key>index_files/medium_526602.png</key>
 							<dict>
@@ -280,16 +280,6 @@
 								<key>Size</key>
 								<integer>124861</integer>
 							</dict>
-							<key>index_files/small_p60859_n109628.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								pcpK3KZBcBVd
-								Ns6QdrLpNA==
-								</data>
-								<key>Size</key>
-								<integer>68548</integer>
-							</dict>
 							<key>index_files/stacks-image-28941ca-1200x1028.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -310,15 +300,35 @@
 								<key>Size</key>
 								<integer>261365</integer>
 							</dict>
+							<key>index_files/stacks-image-580baf6-248x248.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								OGSW8MSxffNf
+								eqQN8VH97Q==
+								</data>
+								<key>Size</key>
+								<integer>13349</integer>
+							</dict>
+							<key>index_files/stacks-image-90966db-250x250.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								YpjTgVVBaf31
+								xzRYJpWpzQ==
+								</data>
+								<key>Size</key>
+								<integer>21870</integer>
+							</dict>
 							<key>index_files/stacks_page_page1.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								L/CIwEM/semt
-								ML6/j05pTA==
+								i6e0/5zXn6tc
+								n05X9X6czA==
 								</data>
 								<key>Size</key>
-								<integer>135557</integer>
+								<integer>142218</integer>
 							</dict>
 							<key>index_files/stacks_page_page1.js</key>
 							<dict>
