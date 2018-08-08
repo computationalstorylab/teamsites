@@ -16,7 +16,7 @@
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root</key>
 					<true/>
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
-					<false/>
+					<true/>
 				</dict>
 				<key>ColourStyles</key>
 				<dict>
@@ -32,6 +32,10 @@
 .jack-wrapper h1 small {
 display:block;
 margin-bottom:1rem;
+}
+
+.button{
+	font-size: 90%;
 }
 
 }</string>
