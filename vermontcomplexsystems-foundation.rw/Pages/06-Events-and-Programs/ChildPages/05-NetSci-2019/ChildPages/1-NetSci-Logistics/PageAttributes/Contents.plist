@@ -33,26 +33,13 @@
 display:block;
 margin-bottom:1rem;
 }
-
 }
 
 
-.centered_image{
-	position: revert;
-	width: 600px;
-	height: 400px;
-	margin: auto;
-}
-
-#stacks_in_110540_page52 img{
-	width: 100%;
-	height: 100%;	
-}
 
 
-.orbit-container .orbit-slides-container&gt;* .orbit-caption-side{
-	position: relative;	
-}</string>
+
+</string>
 				<key>CustomCopyrightUsed</key>
 				<false/>
 				<key>CustomHeader</key>
