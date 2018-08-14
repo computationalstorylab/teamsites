@@ -28,14 +28,14 @@
 					<key>Name</key>
 					<string>Stacks</string>
 					<key>Version</key>
-					<string>3.6.1</string>
+					<string>3.6.0</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-08-03T17:11:24Z</date>
+						<date>2018-08-14T14:29:39Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -44,11 +44,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								34tpInI/lRAl
-								/AKeHqbHSA==
+								dhgip4aaLUwJ
+								HUT/dU05qA==
 								</data>
 								<key>Size</key>
-								<integer>41409</integer>
+								<integer>40412</integer>
 							</dict>
 							<key>index_files/backgroundImage_110306.png</key>
 							<dict>
@@ -80,25 +80,25 @@
 								<key>Size</key>
 								<integer>60972</integer>
 							</dict>
-							<key>index_files/stacks-image-a5b6257.png</key>
+							<key>index_files/stacks-image-580baf6-248x248.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								hAKSIa3+ZrXU
-								vEdJbNZi4g==
+								OGSW8MSxffNf
+								eqQN8VH97Q==
 								</data>
 								<key>Size</key>
-								<integer>34013</integer>
+								<integer>13349</integer>
 							</dict>
-							<key>index_files/stacks-image-ce6b280.png</key>
+							<key>index_files/stacks-image-90966db-250x250.png</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								u9ob8sB2NjIW
-								EKKV5jmImQ==
+								YpjTgVVBaf31
+								xzRYJpWpzQ==
 								</data>
 								<key>Size</key>
-								<integer>19050</integer>
+								<integer>21870</integer>
 							</dict>
 							<key>index_files/stacks-image-d2c4351-164x250.png</key>
 							<dict>
@@ -114,11 +114,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								MRlLwp/EMd0z
-								6WZUe9WwpQ==
+								NakNSiqtzsNA
+								+w7zck+oVw==
 								</data>
 								<key>Size</key>
-								<integer>106577</integer>
+								<integer>104159</integer>
 							</dict>
 							<key>index_files/stacks_page_page65.js</key>
 							<dict>
