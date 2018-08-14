@@ -28,14 +28,14 @@
 					<key>Name</key>
 					<string>Stacks</string>
 					<key>Version</key>
-					<string>3.6.1</string>
+					<string>3.6.0</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-08-03T17:11:24Z</date>
+						<date>2018-08-14T14:29:39Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -170,35 +170,35 @@
 								<key>Size</key>
 								<integer>124861</integer>
 							</dict>
-							<key>files/stacks-image-a5b6257.png</key>
+							<key>files/stacks-image-580baf6-248x248.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								hAKSIa3+ZrXU
-								vEdJbNZi4g==
+								OGSW8MSxffNf
+								eqQN8VH97Q==
 								</data>
 								<key>Size</key>
-								<integer>34013</integer>
+								<integer>13349</integer>
 							</dict>
-							<key>files/stacks-image-ce6b280.png</key>
+							<key>files/stacks-image-90966db-250x250.png</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								u9ob8sB2NjIW
-								EKKV5jmImQ==
+								YpjTgVVBaf31
+								xzRYJpWpzQ==
 								</data>
 								<key>Size</key>
-								<integer>19050</integer>
+								<integer>21870</integer>
 							</dict>
 							<key>files/stacks_page_page6.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								i9p20WXVm3/r
-								G/HwwM6Edw==
+								aRKCYd7IEPOg
+								Xyr00TwYcQ==
 								</data>
 								<key>Size</key>
-								<integer>175693</integer>
+								<integer>173297</integer>
 							</dict>
 							<key>files/stacks_page_page6.js</key>
 							<dict>
@@ -214,11 +214,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								kN7JoyxVQp9a
-								oabeUAxcAA==
+								KRl2tuJyLVKF
+								zunVpr3d1A==
 								</data>
 								<key>Size</key>
-								<integer>97509</integer>
+								<integer>96538</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
