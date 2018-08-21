@@ -26,14 +26,14 @@
 					<key>Name</key>
 					<string>Stacks</string>
 					<key>Version</key>
-					<string>3.6.0</string>
+					<string>3.6.1</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-08-14T14:29:38Z</date>
+						<date>2018-08-15T22:08:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -382,11 +382,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								wpDUEH7ktorE
-								cRLFyoZveA==
+								TWkp3mMeDR23
+								5RERImH1xg==
 								</data>
 								<key>Size</key>
-								<integer>185673</integer>
+								<integer>185564</integer>
 							</dict>
 							<key>files/stacks_page_page35.js</key>
 							<dict>
@@ -402,11 +402,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								lsh/ZbBFwn39
-								ADZTZ23S/w==
+								O0SG5WzWdE+z
+								YgxvGTgWyw==
 								</data>
 								<key>Size</key>
-								<integer>126017</integer>
+								<integer>125815</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
