@@ -41,17 +41,17 @@
 						</dict>
 						<dict>
 							<key>fullPath</key>
-							<string>PDF For Participants SOS Symposium 2018 schedule.pdf</string>
+							<string>PFD for participants HWB Agenda.pdf</string>
 							<key>identifier</key>
-							<string>7A6F9ECD-FC22-4884-B91E-57B9A76DB313</string>
+							<string>5F8068D5-0482-4102-A77A-1856EF09FAEE</string>
 							<key>isInternal</key>
 							<true/>
 						</dict>
 						<dict>
 							<key>fullPath</key>
-							<string>PFD for participants HWB Agenda.pdf</string>
+							<string>PDF For Participants SOS Symposium 2018 schedule.pdf</string>
 							<key>identifier</key>
-							<string>5F8068D5-0482-4102-A77A-1856EF09FAEE</string>
+							<string>7A6F9ECD-FC22-4884-B91E-57B9A76DB313</string>
 							<key>isInternal</key>
 							<true/>
 						</dict>
@@ -7210,7 +7210,7 @@
 					<key>page56 - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-10-02T20:22:54Z</date>
+						<date>2018-10-02T20:30:44Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -7289,11 +7289,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								lXij8IW3Uxa9
-								RJFbw7bugA==
+								F+VniJzhAkqC
+								BWWREistlw==
 								</data>
 								<key>Size</key>
-								<integer>57854</integer>
+								<integer>59442</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -8252,6 +8252,82 @@
 						<string>page63</string>
 						<key>SiteRoot</key>
 						<string>events/netsci/calls/calls-satellites</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+					<key>page64 - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2018-10-02T20:30:44Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								IdTuocflGUmP
+								NIPXoOm/yA==
+								</data>
+								<key>Size</key>
+								<integer>43119</integer>
+							</dict>
+							<key>index_files/backgroundImage_110306.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								/ytKW+d8532o
+								LG20qBSPRw==
+								</data>
+								<key>Size</key>
+								<integer>383766</integer>
+							</dict>
+							<key>index_files/small_p60311_n109623.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								ZFHf9zniv4SK
+								z9ywIWAR7Q==
+								</data>
+								<key>Size</key>
+								<integer>124861</integer>
+							</dict>
+							<key>index_files/stacks-image-2c90133-700x398.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								WNYrWgw4gMan
+								tiFFTLkLNg==
+								</data>
+								<key>Size</key>
+								<integer>60972</integer>
+							</dict>
+							<key>index_files/stacks-image-580baf6-248x248.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								OGSW8MSxffNf
+								eqQN8VH97Q==
+								</data>
+								<key>Size</key>
+								<integer>13349</integer>
+							</dict>
+							<key>index_files/stacks-image-90966db-250x250.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								YpjTgVVBaf31
+								xzRYJpWpzQ==
+								</data>
+								<key>Size</key>
+								<integer>21870</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page64</string>
+						<key>SiteRoot</key>
+						<string>events/netsci/calls/ER-Prize</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
@@ -9226,7 +9302,7 @@
 					<key>rw:plugin:stacks - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-10-02T20:22:54Z</date>
+						<date>2018-10-02T20:30:44Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -10265,11 +10341,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								a3fMGZG6g6j2
-								9eifSLryAQ==
+								KqR1KWiKbOYX
+								WSPOrizpDw==
 								</data>
 								<key>Size</key>
-								<integer>3993</integer>
+								<integer>3327</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -10373,7 +10449,7 @@
 				LUJGRUQtRTZCOEMwRDQ3QzkzXxAjUEZEIGZvciBwYXJ0
 				aWNpcGFudHMgSFdCIEFnZW5kYS5wZGZfECQ1RjgwNjhE
 				NS0wNDgyLTQxMDItQTc3QS0xODU2RUYwOUZBRUXSOgs7
-				PFdOUy50aW1lI0HAsgWSdGtygAvSPj9AQVokY2xhc3Nu
+				PFdOUy50aW1lI0HAsgZ7RhWggAvSPj9AQVokY2xhc3Nu
 				YW1lWCRjbGFzc2VzVk5TRGF0ZaJAQlhOU09iamVjdNMJ
 				CgtERkihRYANoUeADoAPXxAtc2Z0cDovY21wbHhzeXMu
 				dzMudXZtLmVkdS93d3ctcm9vdC90ZW1wbGF0ZXJ5CNI+
@@ -10384,7 +10460,7 @@
 				LTQ5QzUtOTVGQi1EM0QyMkM3QkMxRjFfEDRQREYgRm9y
 				IFBhcnRpY2lwYW50cyBTT1MgU3ltcG9zaXVtIDIwMTgg
 				c2NoZWR1bGUucGRmXxAkN0E2RjlFQ0QtRkMyMi00ODg0
-				LUI5MUUtNTdCOUE3NkRCMzEz0joLYTwjQcCyBZJ0ZneA
+				LUI5MUUtNTdCOUE3NkRCMzEz0joLYTwjQcCyBntGGA2A
 				C9MJCgtkZkihZYAXoUeADoAPXxAtc2Z0cDovY21wbHhz
 				eXMudzMudXZtLmVkdS93d3ctcm9vdC90ZW1wbGF0ZXJ5
 				0j4/a2xcTlNNdXRhYmxlU2V0o2ttQlVOU1NldNMJCgtv
