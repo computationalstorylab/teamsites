@@ -7168,7 +7168,7 @@
 					<key>page54 - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-10-12T17:23:38Z</date>
+						<date>2018-10-12T17:41:31Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -7257,11 +7257,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								auW17PFGN7wu
-								L11CxR1AcA==
+								dWUK1CUqF++S
+								Wb8KHy8eyQ==
 								</data>
 								<key>Size</key>
-								<integer>47591</integer>
+								<integer>48009</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -7274,7 +7274,7 @@
 					<key>page55 - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-10-09T15:33:40Z</date>
+						<date>2018-10-12T17:51:18Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -7339,45 +7339,35 @@
 								<key>Size</key>
 								<integer>21870</integer>
 							</dict>
-							<key>files/stacks-image-b8a8001.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ehRHnCG7w7lu
-								15TEiQvwmQ==
-								</data>
-								<key>Size</key>
-								<integer>38647</integer>
-							</dict>
 							<key>files/stacks_page_page55.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								X6hHQXDcV+WF
-								cWAtJA46WA==
+								gvVfv9E/aVl1
+								xaM6qoirxQ==
 								</data>
 								<key>Size</key>
-								<integer>155255</integer>
+								<integer>126950</integer>
 							</dict>
 							<key>files/stacks_page_page55.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								AoVdXLoa1qG1
-								CkOPtGA6kg==
+								yiFbDdZFo8sR
+								+6yJelIOrQ==
 								</data>
 								<key>Size</key>
-								<integer>37491</integer>
+								<integer>24751</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								oE7u+EDuUfYJ
-								NLIZBWnRbw==
+								k8HJM82oDM8m
+								vXzG5EFLmw==
 								</data>
 								<key>Size</key>
-								<integer>151298</integer>
+								<integer>54872</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -9692,7 +9682,7 @@
 					<key>rw:document:extrafiles - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-10-10T14:30:05Z</date>
+						<date>2018-10-12T17:51:18Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -9741,11 +9731,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								iajEs8Vgwz1l
-								apvdy9Ciqg==
+								RcxzaTErKzJ2
+								TvVywNvqKA==
 								</data>
 								<key>Size</key>
-								<integer>4448</integer>
+								<integer>4512</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -9794,7 +9784,7 @@
 					<key>rw:plugin:stacks - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-10-10T14:30:05Z</date>
+						<date>2018-10-12T17:39:51Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -10833,11 +10823,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								6gwdfJ+57wLU
-								jrpgPtIeGA==
+								X5yG48o2vcNf
+								6t1Vhwhq8Q==
 								</data>
 								<key>Size</key>
-								<integer>3401</integer>
+								<integer>4067</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -10941,8 +10931,8 @@
 				LTk1RkItRDNEMjJDN0JDMUYxXxA0UERGIEZvciBQYXJ0
 				aWNpcGFudHMgU09TIFN5bXBvc2l1bSAyMDE4IHNjaGVk
 				dWxlLnBkZl8QJDdBNkY5RUNELUZDMjItNDg4NC1COTFF
-				LTU3QjlBNzZEQjMxM9I6Czs8V05TLnRpbWUjQcC4iA5s
-				veSAC9I+P0BBWiRjbGFzc25hbWVYJGNsYXNzZXNWTlNE
+				LTU3QjlBNzZEQjMxM9I6Czs8V05TLnRpbWUjQcC4i0wC
+				3P2AC9I+P0BBWiRjbGFzc25hbWVYJGNsYXNzZXNWTlNE
 				YXRlokBCWE5TT2JqZWN00wkKC0RGSKFFgA2hR4AOgA9f
 				EC1zZnRwOi9jbXBseHN5cy53My51dm0uZWR1L3d3dy1y
 				b290L3RlbXBsYXRlcnkI0j4/TE1fEBNOU011dGFibGVE
@@ -10952,7 +10942,7 @@
 				FF8QJDJFOEM3RERDLUFFQjQtNDFGQi1CRkVELUU2QjhD
 				MEQ0N0M5M18QI1BGRCBmb3IgcGFydGljaXBhbnRzIEhX
 				QiBBZ2VuZGEucGRmXxAkNUY4MDY4RDUtMDQ4Mi00MTAy
-				LUE3N0EtMTg1NkVGMDlGQUVF0joLYTwjQcC4iA5swTOA
+				LUE3N0EtMTg1NkVGMDlGQUVF0joLYTwjQcC4i0wC4BGA
 				C9MJCgtkZkihZYAXoUeADoAPXxAtc2Z0cDovY21wbHhz
 				eXMudzMudXZtLmVkdS93d3ctcm9vdC90ZW1wbGF0ZXJ5
 				0j4/a2xcTlNNdXRhYmxlU2V0o2ttQlVOU1NldNMJCgtv
