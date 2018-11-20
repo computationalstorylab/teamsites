@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-11-05T16:05:32Z</date>
+						<date>2018-11-20T21:30:49Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -120,6 +120,16 @@
 								<key>Size</key>
 								<integer>43537</integer>
 							</dict>
+							<key>files/stacks-image-2aeee5b.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								We9pB8ka4Vmx
+								H5keC9AVbg==
+								</data>
+								<key>Size</key>
+								<integer>24736</integer>
+							</dict>
 							<key>files/stacks-image-506ca91.png</key>
 							<dict>
 								<key>Digest</key>
@@ -169,6 +179,16 @@
 								</data>
 								<key>Size</key>
 								<integer>45733</integer>
+							</dict>
+							<key>files/stacks-image-7841e09.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								N4PpCrmytr8z
+								lNWtcwKD6g==
+								</data>
+								<key>Size</key>
+								<integer>8443</integer>
 							</dict>
 							<key>files/stacks-image-7baace1.png</key>
 							<dict>
@@ -274,31 +294,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								UUTUp162ktk6
-								ZRAjGHFCnw==
+								PcXDOZypg1A0
+								T2Lqw7CkbA==
 								</data>
 								<key>Size</key>
-								<integer>179359</integer>
+								<integer>186027</integer>
 							</dict>
 							<key>files/stacks_page_page58.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								LzF4Vo2UArIS
-								/iPN9xolcA==
+								4XeQYGdz7UNI
+								wpkF2QCq5g==
 								</data>
 								<key>Size</key>
-								<integer>27481</integer>
+								<integer>27845</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								lAESzTIEIRIB
-								sy64ea5YjQ==
+								l/808ltrgkw4
+								OBSH0p8C+g==
 								</data>
 								<key>Size</key>
-								<integer>104421</integer>
+								<integer>111507</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
