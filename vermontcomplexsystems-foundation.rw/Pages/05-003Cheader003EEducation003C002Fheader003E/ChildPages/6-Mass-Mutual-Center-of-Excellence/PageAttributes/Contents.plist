@@ -13,33 +13,53 @@
 				<dict>
 					<key>default</key>
 					<true/>
+					<key>sftp:/cmplxsys.w3.uvm.edu/www-root</key>
+					<true/>
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
-					<true/>
-					<key>sftp:/zoo.uvm.edu/www/teaching/courses/2015-08UVM-300</key>
-					<true/>
-					<key>sftp:/zoo.uvm.edu/www/teaching/courses/2015-08UVM-300-test</key>
-					<true/>
-					<key>sftp:/zoo.uvm.edu/www/teaching/courses/2016-08UVM-300</key>
-					<true/>
-					<key>sftp:/zoo.uvm.edu/www/teaching/courses/2017-08UVM-300</key>
 					<true/>
 				</dict>
 				<key>ColourStyles</key>
-				<dict/>
+				<dict>
+					<key>Glide</key>
+					<dict/>
+					<key>Ruby</key>
+					<dict/>
+				</dict>
 				<key>CreditRapidWeaver</key>
 				<true/>
+				<key>CustomCSS</key>
+				<string>@media only screen and (max-width: 50em) { 
+.jack-wrapper h1 small {
+display:block;
+margin-bottom:1rem;
+}
+
+}</string>
 				<key>CustomCopyrightUsed</key>
 				<false/>
+				<key>CustomHeader</key>
+				<string>&lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;
+&lt;script async src="https://www.googletagmanager.com/gtag/js?id=UA-122716818-1"&gt;&lt;/script&gt;
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122716818-1');
+&lt;/script&gt;
+</string>
 				<key>CustomSiteTitleUsed</key>
 				<false/>
 				<key>CustomSloganUsed</key>
 				<false/>
 				<key>DefaultLinkTarget</key>
-				<string></string>
+				<string>self</string>
+				<key>Enabled</key>
+				<true/>
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
-				<string>events</string>
+				<string>page-3</string>
 				<key>HasCustomThemeStyle</key>
 				<false/>
 				<key>Hidden</key>
@@ -54,12 +74,18 @@
 				<string>Default</string>
 				<key>OutputXMLDeclaration</key>
 				<false/>
+				<key>PluginExtension</key>
+				<string>html</string>
+				<key>PluginHasPerformedMigrationToSharedData</key>
+				<true/>
 				<key>RobotsShouldFollowLinks</key>
 				<true/>
 				<key>RobotsShouldIndexPage</key>
 				<true/>
 				<key>SidebarEnabled</key>
 				<integer>1</integer>
+				<key>SidebarTitle</key>
+				<string></string>
 				<key>TextEncoding</key>
 				<string>utf-8</string>
 			</dict>
