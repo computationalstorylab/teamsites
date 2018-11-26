@@ -28,14 +28,14 @@
 					<key>Name</key>
 					<string>Stacks</string>
 					<key>Version</key>
-					<string>3.6.4</string>
+					<string>3.6.0</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-10-29T21:46:35Z</date>
+						<date>2018-11-24T18:24:00Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -64,11 +64,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								yZQqhuEMgia3
-								owVDiEQk8g==
+								OGSW8MSxffNf
+								eqQN8VH97Q==
 								</data>
 								<key>Size</key>
-								<integer>13322</integer>
+								<integer>13349</integer>
 							</dict>
 							<key>files/stacks-image-843a067.jpg</key>
 							<dict>
@@ -84,31 +84,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								kcVxqK0Y23YI
-								Ns11kdYJ6w==
+								YpjTgVVBaf31
+								xzRYJpWpzQ==
 								</data>
 								<key>Size</key>
-								<integer>21714</integer>
+								<integer>21870</integer>
 							</dict>
 							<key>files/stacks-image-f39249a-1200x900.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								uQPBzkerZ3yf
-								AKih3wOo4A==
+								BHn76qxq6Ale
+								cI/itH4TJw==
 								</data>
 								<key>Size</key>
-								<integer>275910</integer>
+								<integer>275487</integer>
 							</dict>
 							<key>files/stacks-image-f39249a-1200x900@2x.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								1XUEj5zX7klL
-								ueUBkeYxJA==
+								Giawt0ieNNZe
+								nV+odm1CpA==
 								</data>
 								<key>Size</key>
-								<integer>421454</integer>
+								<integer>421140</integer>
 							</dict>
 							<key>files/stacks_page_page55.css</key>
 							<dict>
@@ -134,8 +134,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								Oja2IGlh+G8X
-								bM8JZ/fstw==
+								WRD+sELUm1tP
+								9P3vV4SyUA==
 								</data>
 								<key>Size</key>
 								<integer>64481</integer>

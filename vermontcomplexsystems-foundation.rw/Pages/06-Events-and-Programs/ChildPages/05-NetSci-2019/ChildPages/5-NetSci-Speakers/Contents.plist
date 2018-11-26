@@ -28,14 +28,14 @@
 					<key>Name</key>
 					<string>Stacks</string>
 					<key>Version</key>
-					<string>3.6.4</string>
+					<string>3.6.0</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-10-29T19:08:58Z</date>
+						<date>2018-11-24T18:24:00Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -64,41 +64,41 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								yZQqhuEMgia3
-								owVDiEQk8g==
+								OGSW8MSxffNf
+								eqQN8VH97Q==
 								</data>
 								<key>Size</key>
-								<integer>13322</integer>
+								<integer>13349</integer>
 							</dict>
 							<key>files/stacks-image-90966db-250x250.png</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								kcVxqK0Y23YI
-								Ns11kdYJ6w==
+								YpjTgVVBaf31
+								xzRYJpWpzQ==
 								</data>
 								<key>Size</key>
-								<integer>21714</integer>
+								<integer>21870</integer>
 							</dict>
 							<key>files/stacks-image-c132778-1200x800.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								pmtBPIb8okMX
-								m4TVy8UiZQ==
+								qNgQ73EDO4MK
+								RUJm1irRtA==
 								</data>
 								<key>Size</key>
-								<integer>171733</integer>
+								<integer>172081</integer>
 							</dict>
 							<key>files/stacks-image-c132778-1200x800@2x.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								LqNcumR4pHrs
-								2A5SCQhzlw==
+								PlfrCPFX1pwQ
+								/azALNJJVQ==
 								</data>
 								<key>Size</key>
-								<integer>300492</integer>
+								<integer>301289</integer>
 							</dict>
 							<key>files/stacks_page_page57.css</key>
 							<dict>
@@ -124,8 +124,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								yF36jzsBBez6
-								dE/H0Gpabg==
+								b6CdltWp7s9n
+								4ZSuxt9anQ==
 								</data>
 								<key>Size</key>
 								<integer>59035</integer>
