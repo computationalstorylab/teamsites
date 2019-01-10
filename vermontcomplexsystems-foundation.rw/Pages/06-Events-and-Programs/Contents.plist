@@ -26,14 +26,14 @@
 					<key>Name</key>
 					<string>Stacks</string>
 					<key>Version</key>
-					<string>3.6.0</string>
+					<string>3.6.5</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-11-26T02:13:00Z</date>
+						<date>2018-12-03T14:57:48Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -42,11 +42,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								bVl99dOkvsaI
-								EqvLG3z5uQ==
+								3v4e4OXNZGoM
+								Ks+ekw6G4w==
 								</data>
 								<key>Size</key>
-								<integer>52797</integer>
+								<integer>52962</integer>
 							</dict>
 							<key>index_files/small_109761.jpg</key>
 							<dict>
@@ -102,41 +102,41 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								62fzR4BV8IeW
-								g+4JD74Z/Q==
+								VoSNb4EtwwYI
+								YbQ9fVpm1g==
 								</data>
 								<key>Size</key>
-								<integer>45578</integer>
+								<integer>45587</integer>
 							</dict>
 							<key>index_files/stacks-image-50acd30-500x428@2x.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								H8N3C4foo14j
-								ceJ3KiLEqA==
+								aHhdLsFgkaWw
+								v3EkZ6O8OQ==
 								</data>
 								<key>Size</key>
-								<integer>78092</integer>
+								<integer>77983</integer>
 							</dict>
 							<key>index_files/stacks-image-580baf6-248x248.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								OGSW8MSxffNf
-								eqQN8VH97Q==
+								yZQqhuEMgia3
+								owVDiEQk8g==
 								</data>
 								<key>Size</key>
-								<integer>13349</integer>
+								<integer>13322</integer>
 							</dict>
 							<key>index_files/stacks-image-90966db-250x250.png</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								YpjTgVVBaf31
-								xzRYJpWpzQ==
+								kcVxqK0Y23YI
+								Ns11kdYJ6w==
 								</data>
 								<key>Size</key>
-								<integer>21870</integer>
+								<integer>21714</integer>
 							</dict>
 							<key>index_files/stacks_page_page16.css</key>
 							<dict>
