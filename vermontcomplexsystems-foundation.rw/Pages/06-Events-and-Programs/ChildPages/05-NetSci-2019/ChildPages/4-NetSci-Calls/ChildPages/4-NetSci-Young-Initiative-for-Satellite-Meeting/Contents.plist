@@ -14,11 +14,11 @@
 				<key>CreatedDate</key>
 				<date>2016-02-08T13:45:29Z</date>
 				<key>ID</key>
-				<string>page74</string>
+				<string>page73</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>NetSci Young Initiative for Best Talk Pitch</string>
+				<string>NetSci Young Initiative for Satellite Meeting</string>
 				<key>PluginClassName</key>
 				<string>YHStacksPlugin</string>
 				<key>PluginMetadata</key>
@@ -35,12 +35,12 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-01-11T00:22:04Z</date>
+						<date>2019-01-18T16:06:18Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>files/backgroundImage_pp110353_n18_n1.jpg</key>
+							<key>files/backgroundImage_pp110361_n18_n1.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
@@ -80,22 +80,22 @@
 								<key>Size</key>
 								<integer>21714</integer>
 							</dict>
-							<key>files/stacks_page_page74.css</key>
+							<key>files/stacks_page_page73.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								1cOlNfmXprZ7
-								yW6aZOh+Kw==
+								FbQBPxebCyYI
+								TUV5c6eQWA==
 								</data>
 								<key>Size</key>
-								<integer>115459</integer>
+								<integer>113487</integer>
 							</dict>
-							<key>files/stacks_page_page74.js</key>
+							<key>files/stacks_page_page73.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								yTvQxIytoOsy
-								RmvGT5OvDA==
+								yXo+FUf5GsMB
+								VmDcnnqJCA==
 								</data>
 								<key>Size</key>
 								<integer>24751</integer>
@@ -104,17 +104,17 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								5YAr/2P6gEiz
-								72gKepWqKQ==
+								jaeQdKxAum7d
+								ln+IrTp4Ow==
 								</data>
 								<key>Size</key>
-								<integer>49153</integer>
+								<integer>49972</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
-						<string>page74</string>
+						<string>page73</string>
 						<key>SiteRoot</key>
-						<string>events/netsci/calls/page-8</string>
+						<string>events/netsci/calls/page-7</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
