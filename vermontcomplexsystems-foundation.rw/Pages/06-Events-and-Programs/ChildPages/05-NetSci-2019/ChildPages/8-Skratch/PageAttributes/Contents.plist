@@ -59,11 +59,11 @@ margin-bottom:1rem;
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
-				<string>events</string>
+				<string>page-3</string>
 				<key>HasCustomThemeStyle</key>
 				<false/>
 				<key>Hidden</key>
-				<false/>
+				<true/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>
