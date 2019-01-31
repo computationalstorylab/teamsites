@@ -10,15 +10,15 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>BrowserTitle</key>
-				<string>Paper Call</string>
+				<string>Workshop Calls</string>
 				<key>CreatedDate</key>
 				<date>2016-02-08T13:45:29Z</date>
 				<key>ID</key>
-				<string>page81</string>
+				<string>page82</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>Papers</string>
+				<string>Workshops/Tutorials/Special Sessions</string>
 				<key>PluginClassName</key>
 				<string>YHStacksPlugin</string>
 				<key>PluginMetadata</key>
@@ -90,22 +90,22 @@
 								<key>Size</key>
 								<integer>594156</integer>
 							</dict>
-							<key>files/stacks_page_page81.css</key>
+							<key>files/stacks_page_page82.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								ahsXO2Y0yRxx
-								0LgpulIMxg==
+								3Isfzb9Tlqxy
+								Y8eKiWPuIQ==
 								</data>
 								<key>Size</key>
 								<integer>115382</integer>
 							</dict>
-							<key>files/stacks_page_page81.js</key>
+							<key>files/stacks_page_page82.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								kZeb2vEY5GDZ
-								RN5thYKcZQ==
+								p1G43kf2PndS
+								d92j3F0oxA==
 								</data>
 								<key>Size</key>
 								<integer>24751</integer>
@@ -114,17 +114,17 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								fbysPRwJ7c1J
-								xCwZoy3ouw==
+								z4Sn+8JSS8LQ
+								3oTQKsY4dg==
 								</data>
 								<key>Size</key>
-								<integer>47236</integer>
+								<integer>47245</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
-						<string>page81</string>
+						<string>page82</string>
 						<key>SiteRoot</key>
-						<string>events/ALIFE-2020/Calls/Papers</string>
+						<string>events/ALIFE-2020/Calls/workshops</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
