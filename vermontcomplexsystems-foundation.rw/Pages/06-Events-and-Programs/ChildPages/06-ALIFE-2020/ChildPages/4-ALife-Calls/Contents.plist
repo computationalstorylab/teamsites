@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-01-24T19:04:11Z</date>
+						<date>2019-01-31T20:16:07Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -80,15 +80,25 @@
 								<key>Size</key>
 								<integer>21714</integer>
 							</dict>
+							<key>files/stacks-image-e85c4e3.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								u2Q2vUDzWirB
+								IK07lqIzzw==
+								</data>
+								<key>Size</key>
+								<integer>594156</integer>
+							</dict>
 							<key>files/stacks_page_page76.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								AS1qCwnbEM6m
-								COR2q8O5tQ==
+								DoMDUSRD8hzb
+								sJid0l9ZIw==
 								</data>
 								<key>Size</key>
-								<integer>118382</integer>
+								<integer>120022</integer>
 							</dict>
 							<key>files/stacks_page_page76.js</key>
 							<dict>
@@ -104,11 +114,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								qUS93m/Ou3EE
-								dLnPbH5URQ==
+								sVsUs5lMqvUk
+								M2nw3xhdtQ==
 								</data>
 								<key>Size</key>
-								<integer>47575</integer>
+								<integer>50246</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -124,6 +134,7 @@
 			<array/>
 			<key>Subsandwiches</key>
 			<array>
+				<string>ChildPages</string>
 				<string>Data</string>
 				<string>PageAttributes</string>
 			</array>
