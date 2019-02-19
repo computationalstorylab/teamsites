@@ -11066,7 +11066,7 @@
 					<key>page71 - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-02-03T19:29:29Z</date>
+						<date>2019-02-19T15:21:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -11150,6 +11150,16 @@
 								</data>
 								<key>Size</key>
 								<integer>175291</integer>
+							</dict>
+							<key>files/stacks-image-47dbc1f.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								5ZQBcoWh/Pfa
+								MifFgrt2PQ==
+								</data>
+								<key>Size</key>
+								<integer>215026</integer>
 							</dict>
 							<key>files/stacks-image-4aa612e.png</key>
 							<dict>
@@ -11371,6 +11381,16 @@
 								<key>Size</key>
 								<integer>12461</integer>
 							</dict>
+							<key>files/stacks-image-b6ebf51.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								gSJopWt5LZ5j
+								dutssFd3CQ==
+								</data>
+								<key>Size</key>
+								<integer>218939</integer>
+							</dict>
 							<key>files/stacks-image-d0bd460.png</key>
 							<dict>
 								<key>Digest</key>
@@ -11380,16 +11400,6 @@
 								</data>
 								<key>Size</key>
 								<integer>163226</integer>
-							</dict>
-							<key>files/stacks-image-dfbad10.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								gSJopWt5LZ5j
-								dutssFd3CQ==
-								</data>
-								<key>Size</key>
-								<integer>218939</integer>
 							</dict>
 							<key>files/stacks-image-f68f88f.png</key>
 							<dict>
@@ -11425,11 +11435,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								C6rBb1l14H3B
-								iFw4wslf4w==
+								sSt37qtY9jtX
+								b4XoaIuo+g==
 								</data>
 								<key>Size</key>
-								<integer>66870</integer>
+								<integer>67136</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -13126,7 +13136,7 @@
 					<key>rw:document:extrafiles - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-02-19T14:44:45Z</date>
+						<date>2019-02-19T15:21:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -13175,11 +13185,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								ek6RtkIAiYZW
-								WPIOHqbdLg==
+								GgBKZb95py6y
+								QYnugtiuOw==
 								</data>
 								<key>Size</key>
-								<integer>5386</integer>
+								<integer>5354</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -13228,7 +13238,7 @@
 					<key>rw:plugin:stacks - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-02-19T14:44:45Z</date>
+						<date>2019-02-19T15:21:04Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -14267,11 +14277,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								1RNyxIOZFCla
-								tVpxDADEcw==
+								gEwq1RN+ew7K
+								tpC1ykohHw==
 								</data>
 								<key>Size</key>
-								<integer>4556</integer>
+								<integer>3705</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -14355,7 +14365,7 @@
 				LUJGRUQtRTZCOEMwRDQ3QzkzXxAjUEZEIGZvciBwYXJ0
 				aWNpcGFudHMgSFdCIEFnZW5kYS5wZGZfECQ1RjgwNjhE
 				NS0wNDgyLTQxMDItQTc3QS0xODU2RUYwOUZBRUXSOgs7
-				PFdOUy50aW1lI0HBDijAT8mCgAvSPj9AQVokY2xhc3Nu
+				PFdOUy50aW1lI0HBDisxXRyfgAvSPj9AQVokY2xhc3Nu
 				YW1lWCRjbGFzc2VzVk5TRGF0ZaJAQlhOU09iamVjdNMJ
 				CgtERkihRYANoUeADoAPXxAtc2Z0cDovY21wbHhzeXMu
 				dzMudXZtLmVkdS93d3ctcm9vdC90ZW1wbGF0ZXJ5CNI+
@@ -14366,7 +14376,7 @@
 				LTQ5QzUtOTVGQi1EM0QyMkM3QkMxRjFfEDRQREYgRm9y
 				IFBhcnRpY2lwYW50cyBTT1MgU3ltcG9zaXVtIDIwMTgg
 				c2NoZWR1bGUucGRmXxAkN0E2RjlFQ0QtRkMyMi00ODg0
-				LUI5MUUtNTdCOUE3NkRCMzEz0joLYTwjQcEOKMBPzCGA
+				LUI5MUUtNTdCOUE3NkRCMzEz0joLYTwjQcEOKzFdIU+A
 				C9MJCgtkZkihZYAXoUeADoAPXxAtc2Z0cDovY21wbHhz
 				eXMudzMudXZtLmVkdS93d3ctcm9vdC90ZW1wbGF0ZXJ5
 				0j4/a2xcTlNNdXRhYmxlU2V0o2ttQlVOU1NldNMJCgtv
