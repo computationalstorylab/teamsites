@@ -28,19 +28,19 @@
 					<key>Name</key>
 					<string>Stacks</string>
 					<key>Version</key>
-					<string>3.6.0</string>
+					<string>3.6.5</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-01-08T22:44:49Z</date>
+						<date>2019-02-21T16:08:23Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>files/backgroundImage_110718.jpg</key>
+							<key>files/backgroundImage_pp111178_n18_n1.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
@@ -109,6 +109,26 @@
 								</data>
 								<key>Size</key>
 								<integer>26372</integer>
+							</dict>
+							<key>files/stacks-image-1ac715b-250x198.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								4bILJYke1MOL
+								S1b9pKkb6g==
+								</data>
+								<key>Size</key>
+								<integer>17990</integer>
+							</dict>
+							<key>files/stacks-image-1ac715b-250x198@2x.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								6E/X/XmGgFPv
+								SeLdbp9B/Q==
+								</data>
+								<key>Size</key>
+								<integer>24599</integer>
 							</dict>
 							<key>files/stacks-image-1fdb6e6-350x250.jpg</key>
 							<dict>
@@ -524,11 +544,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								MKuqZKIWcq91
-								gBOEu2/2sA==
+								pug2UDgYDu1h
+								aXEeqw+T/g==
 								</data>
 								<key>Size</key>
-								<integer>234269</integer>
+								<integer>235375</integer>
 							</dict>
 							<key>files/stacks_page_page57.js</key>
 							<dict>
@@ -544,11 +564,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								/hlqX/hZudtJ
-								Xvqv1bTAlA==
+								0g9r8Q/X1uoj
+								eO2o+vvQEg==
 								</data>
 								<key>Size</key>
-								<integer>143270</integer>
+								<integer>145695</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
