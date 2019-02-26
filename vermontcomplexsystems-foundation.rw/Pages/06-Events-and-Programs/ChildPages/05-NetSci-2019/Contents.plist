@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-02-22T15:02:37Z</date>
+						<date>2019-02-26T16:00:10Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -149,26 +149,6 @@
 								</data>
 								<key>Size</key>
 								<integer>26372</integer>
-							</dict>
-							<key>files/stacks-image-1ac715b-250x198.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4bILJYke1MOL
-								S1b9pKkb6g==
-								</data>
-								<key>Size</key>
-								<integer>17990</integer>
-							</dict>
-							<key>files/stacks-image-1ac715b-250x198@2x.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								6E/X/XmGgFPv
-								SeLdbp9B/Q==
-								</data>
-								<key>Size</key>
-								<integer>24599</integer>
 							</dict>
 							<key>files/stacks-image-1fdb6e6-350x250.jpg</key>
 							<dict>
@@ -660,6 +640,16 @@
 								<key>Size</key>
 								<integer>53902</integer>
 							</dict>
+							<key>files/stacks-image-b6595c0-250x82.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								RkkqryPTGoE/
+								j06LFQTwkQ==
+								</data>
+								<key>Size</key>
+								<integer>14739</integer>
+							</dict>
 							<key>files/stacks-image-b90e42d.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -884,8 +874,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								dcBahSp0auXI
-								GJ0DlvWP8w==
+								I2EDAGWqQZ/C
+								wApvZ9Sv6A==
 								</data>
 								<key>Size</key>
 								<integer>346088</integer>
@@ -894,8 +884,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								sd8yBc7C6fnQ
-								ZeI/rMLmLg==
+								E7vgxSaO1qiK
+								ZEsJ3541nA==
 								</data>
 								<key>Size</key>
 								<integer>32395</integer>
@@ -904,11 +894,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								839AxBEV/H4Z
-								WaCojGC6Zw==
+								4AdwAz4aggs2
+								+UviUSEeJw==
 								</data>
 								<key>Size</key>
-								<integer>258546</integer>
+								<integer>258447</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
