@@ -7716,7 +7716,7 @@
 					<key>page55 - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-03-13T19:03:06Z</date>
+						<date>2019-03-19T15:34:45Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -8091,35 +8091,45 @@
 								<key>Size</key>
 								<integer>25454</integer>
 							</dict>
+							<key>files/stacks-image-f9e98ca.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								t6NqD4BKfum7
+								w6sBxo56PA==
+								</data>
+								<key>Size</key>
+								<integer>15236</integer>
+							</dict>
 							<key>files/stacks_page_page55.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								+yjgWo5GFg2z
-								rTGtaaa5oA==
+								2uzUFpxcVums
+								Q5XgD7K1zw==
 								</data>
 								<key>Size</key>
-								<integer>597207</integer>
+								<integer>606994</integer>
 							</dict>
 							<key>files/stacks_page_page55.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								2IgKz1L8lYsf
-								cWmC0N0DKQ==
+								qYlvVoTLM1B+
+								dBnJpFXB0A==
 								</data>
 								<key>Size</key>
-								<integer>41495</integer>
+								<integer>41859</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								FiGMv5Zrpsdg
-								6H51bwJmBw==
+								uMvTh5KcozmQ
+								/mhdaMdAmg==
 								</data>
 								<key>Size</key>
-								<integer>459930</integer>
+								<integer>468979</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -13666,7 +13676,7 @@
 					<key>rw:plugin:stacks - sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-03-18T14:52:13Z</date>
+						<date>2019-03-19T15:34:45Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -14705,8 +14715,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								9TSAXahv+MAC
-								irc4mMqfbQ==
+								UKHbkQRc2BEH
+								iJqtj3bbWQ==
 								</data>
 								<key>Size</key>
 								<integer>3748</integer>
@@ -14853,7 +14863,7 @@
 				RDNEMjJDN0JDMUYxXxA0UERGIEZvciBQYXJ0aWNpcGFu
 				dHMgU09TIFN5bXBvc2l1bSAyMDE4IHNjaGVkdWxlLnBk
 				Zl8QJDdBNkY5RUNELUZDMjItNDg4NC1COTFFLTU3QjlB
-				NzZEQjMxM9JDC0RFV05TLnRpbWUjQcEf9A/Gdo6ADNIe
+				NzZEQjMxM9JDC0RFV05TLnRpbWUjQcEgocuyi+uADNIe
 				H0dIVk5TRGF0ZaJHI9MJCgtKTE6hS4AOoU2AD4AQXxAt
 				c2Z0cDovY21wbHhzeXMudzMudXZtLmVkdS93d3ctcm9v
 				dC90ZW1wbGF0ZXJ5CNIeH1JTXxATTlNNdXRhYmxlRGlj
@@ -14863,14 +14873,14 @@
 				FoAVXxAkMkU4QzdEREMtQUVCNC00MUZCLUJGRUQtRTZC
 				OEMwRDQ3QzkzXxAjUEZEIGZvciBwYXJ0aWNpcGFudHMg
 				SFdCIEFnZW5kYS5wZGZfECQ1RjgwNjhENS0wNDgyLTQx
-				MDItQTc3QS0xODU2RUYwOUZBRUXSQwtoRSNBwR/0D8Z3
-				YIAM0wkKC2ttTqFsgBihTYAPgBBfEC1zZnRwOi9jbXBs
+				MDItQTc3QS0xODU2RUYwOUZBRUXSQwtoRSNBwSChy7KM
+				aYAM0wkKC2ttTqFsgBihTYAPgBBfEC1zZnRwOi9jbXBs
 				eHN5cy53My51dm0uZWR1L3d3dy1yb290L3RlbXBsYXRl
 				cnnaLS4LLzAxEzIzNDVzNxYWd3h5ensIgCCAEYAAgACA
 				HoAbgBqAHYAcXxAkMzExQ0JERDItOTJCNy00MDE4LUIw
 				OTgtNDhGMjhFMEQwOUFGXxAcb2N0b3B1c19pY29uX3Ry
 				YW5zcGFyZW50LnBuZ18QJDAzQTRDMzNCLTY2NjAtNDMx
-				Mi1BQkIxLURERDE3ODVGRjkxM9JDC4BFI0HBH/QPxneS
+				Mi1BQkIxLURERDE3ODVGRjkxM9JDC4BFI0HBIKHLsoyC
 				gAzTCQoLg4VOoYSAH6FNgA+AEF8QLXNmdHA6L2NtcGx4
 				c3lzLnczLnV2bS5lZHUvd3d3LXJvb3QvdGVtcGxhdGVy
 				eV8Qbi92YXIvZm9sZGVycy82Ni9oX252bng0OTVmc19w
@@ -14880,7 +14890,7 @@
 				kpOUCIAogBGAAIAAgCaAI4AigCWAJF8QJEVCN0EwMEJB
 				LTI0RTMtNDY4Qi1CNDU2LTlDMjM3QjgwRDBFQ1tmYXZp
 				Y29uLmljb18QJEE1NDVEMzc1LTFCNkItNEU5My1CQjU3
-				LTEyNEY1NzEyMEZFMtJDC5lFI0HBH/QPxne8gAzTCQoL
+				LTEyNEY1NzEyMEZFMtJDC5lFI0HBIKHLsoycgAzTCQoL
 				nJ5OoZ2AJ6FNgA+AEF8QLXNmdHA6L2NtcGx4c3lzLncz
 				LnV2bS5lZHUvd3d3LXJvb3QvdGVtcGxhdGVyeV8QXS92
 				YXIvZm9sZGVycy82Ni9oX252bng0OTVmc19wMGxteGI3
@@ -14890,7 +14900,7 @@
 				ECQ0MTExRkI1Mi1BMjJBLTRENjUtODY5Mi1CRTYzMEU2
 				RENBNkNfEBRhcHBsZS10b3VjaC1pY29uLnBuZ18QJEFC
 				NTBGRDUyLUE1NEUtNEYyMi05OTRELUUxNUE3RUYyMjRB
-				MtJDC7JFI0HBH/QPxnfegAzTCQoLtbdOobaAL6FNgA+A
+				MtJDC7JFI0HBIKHLsoy1gAzTCQoLtbdOobaAL6FNgA+A
 				EF8QLXNmdHA6L2NtcGx4c3lzLnczLnV2bS5lZHUvd3d3
 				LXJvb3QvdGVtcGxhdGVyeV8QZi92YXIvZm9sZGVycy82
 				Ni9oX252bng0OTVmc19wMGxteGI3Z3RwcDQwMDAwZ3Ev
