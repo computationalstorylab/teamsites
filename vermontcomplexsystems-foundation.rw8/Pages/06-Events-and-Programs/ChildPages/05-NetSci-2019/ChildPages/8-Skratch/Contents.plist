@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-05-02T20:30:55Z</date>
+						<date>2019-05-07T23:04:13Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -80,6 +80,36 @@
 								<key>Size</key>
 								<integer>69192</integer>
 							</dict>
+							<key>files/stacks-image-3f840b6-400x400.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								YTLD/bUe0ORf
+								RgdNKhsiZw==
+								</data>
+								<key>Size</key>
+								<integer>38260</integer>
+							</dict>
+							<key>files/stacks-image-3f840b6-400x400@2x.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								ikxpBxIX6ud5
+								VZ+scCDjnQ==
+								</data>
+								<key>Size</key>
+								<integer>91182</integer>
+							</dict>
+							<key>files/stacks-image-8395111-400x160.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								ms3meQXAaQnm
+								N/rdpFM+Kw==
+								</data>
+								<key>Size</key>
+								<integer>20511</integer>
+							</dict>
 							<key>files/stacks-image-e97f241-400x164.png</key>
 							<dict>
 								<key>Digest</key>
@@ -90,15 +120,25 @@
 								<key>Size</key>
 								<integer>19413</integer>
 							</dict>
+							<key>files/stacks-image-f9e98ca.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								t6NqD4BKfum7
+								w6sBxo56PA==
+								</data>
+								<key>Size</key>
+								<integer>15236</integer>
+							</dict>
 							<key>files/stacks_page_page37.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								oABrWxmAGyNZ
-								rcmOc9/0TA==
+								cNvKN490CU3j
+								4xCnikm8MA==
 								</data>
 								<key>Size</key>
-								<integer>192614</integer>
+								<integer>198528</integer>
 							</dict>
 							<key>files/stacks_page_page37.js</key>
 							<dict>
@@ -114,11 +154,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								8Hb28mtCEj09
-								gloPwEKhvg==
+								WLGU+ssqAIql
+								BEoH/uaogQ==
 								</data>
 								<key>Size</key>
-								<integer>96584</integer>
+								<integer>100756</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
