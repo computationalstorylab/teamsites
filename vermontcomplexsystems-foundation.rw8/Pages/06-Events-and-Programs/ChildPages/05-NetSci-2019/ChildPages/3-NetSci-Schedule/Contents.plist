@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-05-22T01:16:11Z</date>
+						<date>2019-05-22T14:02:06Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -190,6 +190,16 @@
 								<key>Size</key>
 								<integer>91182</integer>
 							</dict>
+							<key>files/stacks-image-43d632b.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								Al0iGa9siGmh
+								ub9dFUXZfQ==
+								</data>
+								<key>Size</key>
+								<integer>24308</integer>
+							</dict>
 							<key>files/stacks-image-5433a01-350x375.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -229,6 +239,16 @@
 								</data>
 								<key>Size</key>
 								<integer>722662</integer>
+							</dict>
+							<key>files/stacks-image-586ba67.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								crsX/Flpm7oj
+								9IBJBkKnRg==
+								</data>
+								<key>Size</key>
+								<integer>10913</integer>
 							</dict>
 							<key>files/stacks-image-6467c3a-350x375.jpg</key>
 							<dict>
@@ -534,31 +554,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								8D9SiAjBhZ1a
-								S0V+gTbn4w==
+								gFbgz8IrXrNs
+								5A73l3LrOA==
 								</data>
 								<key>Size</key>
-								<integer>406882</integer>
+								<integer>413074</integer>
 							</dict>
 							<key>files/stacks_page_page55.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								TMGRMNTgC7W3
-								kEN22IhgQQ==
+								iVfAPd4t1C2B
+								S6euD5crzQ==
 								</data>
 								<key>Size</key>
-								<integer>67521</integer>
+								<integer>67885</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								T1WJcJxhE4Tn
-								SY7mVPR0zQ==
+								wIX5Zu2MOYW9
+								9JHsNzaQ0g==
 								</data>
 								<key>Size</key>
-								<integer>804952</integer>
+								<integer>810628</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
