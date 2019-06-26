@@ -7,8 +7,6 @@
 		<string>page3</string>
 		<string>page16</string>
 		<string>page36</string>
-		<string>page64</string>
-		<string>page76</string>
 	</array>
 	<key>pageInspectorVisible</key>
 	<false/>
@@ -20,7 +18,7 @@
 	<string>pageSettings</string>
 	<key>selectedItems</key>
 	<array>
-		<string>page64</string>
+		<string>page36</string>
 	</array>
 	<key>selectedMode</key>
 	<integer>0</integer>
