@@ -12,17 +12,17 @@
 				<key>ChangedStatuses</key>
 				<dict>
 					<key>default</key>
-					<false/>
+					<true/>
 					<key>sftp:/cmplxsys.w3.uvm.edu/www-root/templatery</key>
 					<false/>
 					<key>sftp:/zoo.uvm.edu/www/teaching/courses/2015-08UVM-300</key>
-					<false/>
+					<true/>
 					<key>sftp:/zoo.uvm.edu/www/teaching/courses/2015-08UVM-300-test</key>
-					<false/>
+					<true/>
 					<key>sftp:/zoo.uvm.edu/www/teaching/courses/2016-08UVM-300</key>
-					<false/>
+					<true/>
 					<key>sftp:/zoo.uvm.edu/www/teaching/courses/2017-08UVM-300</key>
-					<false/>
+					<true/>
 				</dict>
 				<key>ColourStyles</key>
 				<dict/>
@@ -52,6 +52,8 @@
 				<key>FolderName</key>
 				<string>community</string>
 				<key>HasCustomThemeStyle</key>
+				<false/>
+				<key>Hidden</key>
 				<false/>
 				<key>ImageFormat</key>
 				<string>Original</string>
