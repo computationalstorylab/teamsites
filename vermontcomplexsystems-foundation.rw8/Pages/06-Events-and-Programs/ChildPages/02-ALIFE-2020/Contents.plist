@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-11-04T20:49:18Z</date>
+						<date>2019-11-05T16:32:34Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -230,6 +230,26 @@
 								<key>Size</key>
 								<integer>58637</integer>
 							</dict>
+							<key>files/stacks-image-63bfdf1-898x1200.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								JzGDCTr3VpQ9
+								ZXa76S/QnA==
+								</data>
+								<key>Size</key>
+								<integer>379215</integer>
+							</dict>
+							<key>files/stacks-image-63bfdf1-898x1200@2x.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								9Q9bA8/nbmZM
+								L3BvVZFtbw==
+								</data>
+								<key>Size</key>
+								<integer>623013</integer>
+							</dict>
 							<key>files/stacks-image-67b56a5.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -400,6 +420,26 @@
 								<key>Size</key>
 								<integer>18900</integer>
 							</dict>
+							<key>files/stacks-image-fec4b4d-898x1200.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								JzGDCTr3VpQ9
+								ZXa76S/QnA==
+								</data>
+								<key>Size</key>
+								<integer>379215</integer>
+							</dict>
+							<key>files/stacks-image-fec4b4d-898x1200@2x.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								9Q9bA8/nbmZM
+								L3BvVZFtbw==
+								</data>
+								<key>Size</key>
+								<integer>623013</integer>
+							</dict>
 							<key>files/stacks-image-ffaa771.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -414,11 +454,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								TS6PnfaY70ew
-								leKssSteHg==
+								rbAqlQUC88Di
+								ZPAqFm9erA==
 								</data>
 								<key>Size</key>
-								<integer>241519</integer>
+								<integer>238525</integer>
 							</dict>
 							<key>files/stacks_page_page64.js</key>
 							<dict>
@@ -434,11 +474,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								xvSk7WT+/gz9
-								OJfleVKy/w==
+								x15wJ9QQzLPG
+								iqd82PtoKQ==
 								</data>
 								<key>Size</key>
-								<integer>163559</integer>
+								<integer>162685</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
