@@ -17,6 +17,8 @@
 				<string>Foundation</string>
 				<key>ID</key>
 				<string>page64</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Theme Default</string>
 				<key>PageTitle</key>
 				<string>ALIFE 2020</string>
 				<key>PluginClassName</key>
@@ -35,7 +37,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-11-22T19:29:08Z</date>
+						<date>2019-11-23T14:57:34Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -510,25 +512,15 @@
 								<key>Size</key>
 								<integer>12191</integer>
 							</dict>
-							<key>files/stacks.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								wgmIAuepvJFg
-								INqwDCfPXQ==
-								</data>
-								<key>Size</key>
-								<integer>1879</integer>
-							</dict>
 							<key>files/stacks_page_page64.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								ChdNEEcYSOAu
-								QnljeP+dXA==
+								v2ufHWSaw/s5
+								SpgzRL8L3g==
 								</data>
 								<key>Size</key>
-								<integer>404642</integer>
+								<integer>404749</integer>
 							</dict>
 							<key>files/stacks_page_page64.js</key>
 							<dict>
@@ -544,11 +536,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								6x6vZVGHnyCI
-								Pqh7NIsiTw==
+								M9NuU6aHZXfl
+								Y0oMES7Org==
 								</data>
 								<key>Size</key>
-								<integer>313160</integer>
+								<integer>313766</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
