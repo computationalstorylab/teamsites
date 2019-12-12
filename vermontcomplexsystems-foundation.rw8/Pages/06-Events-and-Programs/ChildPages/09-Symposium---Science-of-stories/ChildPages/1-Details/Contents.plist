@@ -33,7 +33,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-12-06T21:18:32Z</date>
+						<date>2019-12-12T15:48:14Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -212,21 +212,21 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								DrXzqFxO+3lS
-								a1HeNbtvnw==
+								+CTGf33H6gpC
+								aWRXrwnVTA==
 								</data>
 								<key>Size</key>
-								<integer>6235</integer>
+								<integer>6249</integer>
 							</dict>
 							<key>files/stacks-image-3edeb52-98x98@2x.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								qd9R6Jbs85PY
-								IaUvLvQM+w==
+								zPgYo7Si84CK
+								UNvee6+CfQ==
 								</data>
 								<key>Size</key>
-								<integer>7778</integer>
+								<integer>7764</integer>
 							</dict>
 							<key>files/stacks-image-40a568b-250x250.png</key>
 							<dict>
@@ -292,21 +292,21 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								DrXzqFxO+3lS
-								a1HeNbtvnw==
+								+CTGf33H6gpC
+								aWRXrwnVTA==
 								</data>
 								<key>Size</key>
-								<integer>6235</integer>
+								<integer>6249</integer>
 							</dict>
 							<key>files/stacks-image-810c5f5-98x98@2x.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								qd9R6Jbs85PY
-								IaUvLvQM+w==
+								zPgYo7Si84CK
+								UNvee6+CfQ==
 								</data>
 								<key>Size</key>
-								<integer>7778</integer>
+								<integer>7764</integer>
 							</dict>
 							<key>files/stacks-image-8364b1f-250x250.png</key>
 							<dict>
@@ -402,41 +402,41 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								EVTgdJiaEUul
-								VNpZkNApEg==
+								Snmvj2advS8d
+								w0pnzBELew==
 								</data>
 								<key>Size</key>
-								<integer>393528</integer>
+								<integer>391801</integer>
 							</dict>
 							<key>files/stacks-image-a4d3338-974x648@2x.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								n+OWD/hzVSCw
-								PVNgwwqmFQ==
+								jmfY/gMc3hx3
+								uWcwHSD93Q==
 								</data>
 								<key>Size</key>
-								<integer>785477</integer>
+								<integer>790260</integer>
 							</dict>
 							<key>files/stacks-image-b2e3b8a-98x98.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								DrXzqFxO+3lS
-								a1HeNbtvnw==
+								+CTGf33H6gpC
+								aWRXrwnVTA==
 								</data>
 								<key>Size</key>
-								<integer>6235</integer>
+								<integer>6249</integer>
 							</dict>
 							<key>files/stacks-image-b2e3b8a-98x98@2x.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								qd9R6Jbs85PY
-								IaUvLvQM+w==
+								zPgYo7Si84CK
+								UNvee6+CfQ==
 								</data>
 								<key>Size</key>
-								<integer>7778</integer>
+								<integer>7764</integer>
 							</dict>
 							<key>files/stacks-image-b5d4a25-261x251.png</key>
 							<dict>
@@ -552,31 +552,41 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								1ipRwZ5oXEfN
-								4MQzBVAohw==
+								ar/Ae9TONQ0g
+								jZNPx76obQ==
 								</data>
 								<key>Size</key>
-								<integer>226290</integer>
+								<integer>226671</integer>
 							</dict>
 							<key>files/stacks_page_page48.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								1DLfQfbE0kAe
-								ez2KLTF6Zw==
+								reke5fG9y1iM
+								ERi6HzuK/A==
 								</data>
 								<key>Size</key>
-								<integer>28619</integer>
+								<integer>31885</integer>
+							</dict>
+							<key>files/stacks_page_page48.php</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								asS6houAG3U0
+								vky2WZQZ8A==
+								</data>
+								<key>Size</key>
+								<integer>922</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								uHZWIKE3O3Jr
-								9udwgxyEgw==
+								3xzYVv9ITeYr
+								Z9mhHfV+sA==
 								</data>
 								<key>Size</key>
-								<integer>197792</integer>
+								<integer>198396</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
