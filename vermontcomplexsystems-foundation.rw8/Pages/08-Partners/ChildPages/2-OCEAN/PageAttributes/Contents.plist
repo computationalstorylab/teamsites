@@ -55,15 +55,15 @@ margin-bottom:1rem;
 				<key>DefaultLinkTarget</key>
 				<string>self</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
-				<string>Google-VT</string>
+				<string>OCEAN</string>
 				<key>HasCustomThemeStyle</key>
 				<false/>
 				<key>Hidden</key>
-				<true/>
+				<false/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>
