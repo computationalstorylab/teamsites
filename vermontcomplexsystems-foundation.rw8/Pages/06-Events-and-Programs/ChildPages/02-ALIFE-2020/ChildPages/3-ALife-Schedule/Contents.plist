@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-01-29T20:07:40Z</date>
+						<date>2020-02-07T18:37:26Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -129,6 +129,26 @@
 								</data>
 								<key>Size</key>
 								<integer>6879</integer>
+							</dict>
+							<key>files/stacks-image-4180a3c-350x450.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								T1Q/IoyY5j+D
+								lOTrwfeRDA==
+								</data>
+								<key>Size</key>
+								<integer>355686</integer>
+							</dict>
+							<key>files/stacks-image-4180a3c-350x450@2x.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								3dD62Ev4If+M
+								HUPIja3hig==
+								</data>
+								<key>Size</key>
+								<integer>1317659</integer>
 							</dict>
 							<key>files/stacks-image-4b4af78-350x450.jpg</key>
 							<dict>
@@ -230,35 +250,45 @@
 								<key>Size</key>
 								<integer>19481</integer>
 							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								wgmIAuepvJFg
+								INqwDCfPXQ==
+								</data>
+								<key>Size</key>
+								<integer>1879</integer>
+							</dict>
 							<key>files/stacks_page_page75.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								H65GK91e99ov
-								yMD7Wb7Fgw==
+								cZTsSUUVpfcv
+								HWchFrGL2g==
 								</data>
 								<key>Size</key>
-								<integer>187441</integer>
+								<integer>190565</integer>
 							</dict>
 							<key>files/stacks_page_page75.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								u5BEPdIPvIC1
-								fFSYQHJmNA==
+								w//T0P1YQzj5
+								PeSoVQpCIA==
 								</data>
 								<key>Size</key>
-								<integer>25199</integer>
+								<integer>25381</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								f3qASFy3LWHF
-								E+qCpsZO7g==
+								E+OXAdXA8sr1
+								SIi2R1zyjw==
 								</data>
 								<key>Size</key>
-								<integer>112246</integer>
+								<integer>116115</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
