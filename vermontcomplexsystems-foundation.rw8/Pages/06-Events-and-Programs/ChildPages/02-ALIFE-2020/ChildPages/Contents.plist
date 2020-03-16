@@ -13,15 +13,16 @@
 			<array/>
 			<key>Subsandwiches</key>
 			<array>
-				<string>1-ALife-Logistics</string>
-				<string>2-ALife-Registration</string>
-				<string>3-ALife-Schedule</string>
-				<string>4-ALife-Satellites</string>
-				<string>5-ALife-Calls</string>
-				<string>6-ALife-Speakers</string>
-				<string>7-ALife-Sponsors</string>
-				<string>8-ALife-Organizers</string>
-				<string>9-skratch</string>
+				<string>01-ALife-Logistics</string>
+				<string>02-ALife-Registration</string>
+				<string>03-ALife-Schedule</string>
+				<string>04-Virtual-ALife</string>
+				<string>05-ALife-Satellites</string>
+				<string>06-ALife-Calls</string>
+				<string>07-ALife-Speakers</string>
+				<string>08-ALife-Sponsors</string>
+				<string>09-ALife-Organizers</string>
+				<string>10-skratch</string>
 			</array>
 		</dict>
 	</array>
