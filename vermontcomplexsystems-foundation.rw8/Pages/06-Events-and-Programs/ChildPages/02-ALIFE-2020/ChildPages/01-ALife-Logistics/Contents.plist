@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-03-25T17:20:39Z</date>
+						<date>2020-03-25T17:32:50Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -160,15 +160,25 @@
 								<key>Size</key>
 								<integer>19481</integer>
 							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								wgmIAuepvJFg
+								INqwDCfPXQ==
+								</data>
+								<key>Size</key>
+								<integer>1879</integer>
+							</dict>
 							<key>files/stacks_page_page65.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								zX35psIfEdPc
-								o0XsWhQqmQ==
+								6sljFNq1RPSQ
+								t60quADbpw==
 								</data>
 								<key>Size</key>
-								<integer>145209</integer>
+								<integer>148417</integer>
 							</dict>
 							<key>files/stacks_page_page65.js</key>
 							<dict>
@@ -184,11 +194,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								bfaGofHlNnTq
-								ycJ7eV50XA==
+								kFFTR1UPxQEW
+								u8WUIZP7Gg==
 								</data>
 								<key>Size</key>
-								<integer>77828</integer>
+								<integer>86991</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
