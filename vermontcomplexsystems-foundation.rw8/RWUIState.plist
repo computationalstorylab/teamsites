@@ -14,11 +14,13 @@
 		<string>page5</string>
 	</array>
 	<key>pageInspectorVisible</key>
-	<false/>
+	<true/>
 	<key>projectViewVisible</key>
 	<true/>
 	<key>projectViewWidth</key>
 	<real>200</real>
+	<key>selectedInspectorTab</key>
+	<string>pageSettings</string>
 	<key>selectedItems</key>
 	<array>
 		<string>page89</string>
