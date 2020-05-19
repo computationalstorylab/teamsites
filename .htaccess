@@ -1,0 +1,33 @@
+# Have the python site reload more frequently
+SetEnv wsgi_max_requests 5
+
+# Allow iframes...
+# Header set Access-Control-Allow-Origin "*"
+# Header set Access-Control-Allow-Origin "uvm.edu"
+
+# Rewrites!
+RewriteEngine On
+
+# push rw_common, index_files directories into templatery
+RewriteRule ^rw_common/(.*)?$ /templatery/rw_common/$1 [QSA,NC,L]
+RewriteRule ^index_files/(.*)?$ /templatery/index_files/$1 [QSA,NC,L]
+
+# the next four route all js, css, jpg, png extensions
+# that have neither the templatery or static folder
+# into templatery
+RewriteCond %{REQUEST_URI}  !^/templatery/.*$
+RewriteCond %{REQUEST_URI}  !^/static/.*$
+RewriteRule ^(.*?.js)$ /templatery/$1 [QSA,NC,L]
+RewriteCond %{REQUEST_URI}  !^/templatery/.*$
+RewriteCond %{REQUEST_URI}  !^/static/.*$
+RewriteRule ^(.*?.css)$ /templatery/$1 [QSA,NC,L]
+RewriteCond %{REQUEST_URI}  !^/templatery/.*$
+RewriteCond %{REQUEST_URI}  !^/static/.*$
+RewriteRule ^(.*?.jpg)$ /templatery/$1 [QSA,NC,L]
+RewriteCond %{REQUEST_URI}  !^/templatery/.*$
+RewriteCond %{REQUEST_URI}  !^/static/.*$
+RewriteRule ^(.*?.png)$ /templatery/$1 [QSA,NC,L]
+
+# and this rule then pushes everything else through the Django site!
+RewriteRule "^([a-z_\-/0-9\ ]*)/?$" /db/wsgi.py/$1 [QSA,NC,L]
+

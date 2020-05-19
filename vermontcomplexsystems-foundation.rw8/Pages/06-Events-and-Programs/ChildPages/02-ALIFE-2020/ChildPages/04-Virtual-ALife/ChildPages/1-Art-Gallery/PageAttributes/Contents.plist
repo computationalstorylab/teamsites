@@ -59,11 +59,11 @@ margin-bottom:1rem;
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
-				<string>ART GALLERY </string>
+				<string>ARTGALLERY</string>
 				<key>HasCustomThemeStyle</key>
 				<true/>
 				<key>Hidden</key>
-				<false/>
+				<true/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>

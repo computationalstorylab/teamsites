@@ -37,7 +37,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-05-15T13:49:01Z</date>
+						<date>2020-05-19T16:01:30Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -176,17 +176,17 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								ijISkMSwfciG
-								qUqUOJLKdA==
+								YgTG7wPtPBQI
+								0a46nmdbkA==
 								</data>
 								<key>Size</key>
-								<integer>72031</integer>
+								<integer>71627</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page45</string>
 						<key>SiteRoot</key>
-						<string>events/ALIFE-2020/Virtual/poster session</string>
+						<string>events/ALIFE-2020/Virtual/postersession</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>

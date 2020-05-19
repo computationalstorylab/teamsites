@@ -61,7 +61,7 @@ margin-bottom:1rem;
 				<key>HasCustomThemeStyle</key>
 				<true/>
 				<key>Hidden</key>
-				<false/>
+				<true/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>
@@ -71,7 +71,7 @@ margin-bottom:1rem;
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>
-				<string>html</string>
+				<string>php</string>
 				<key>PluginHasPerformedMigrationToSharedData</key>
 				<true/>
 				<key>RobotsShouldFollowLinks</key>

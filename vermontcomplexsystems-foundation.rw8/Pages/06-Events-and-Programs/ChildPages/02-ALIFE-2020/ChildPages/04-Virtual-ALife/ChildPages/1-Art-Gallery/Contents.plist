@@ -37,7 +37,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-05-15T13:49:01Z</date>
+						<date>2020-05-19T16:01:30Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -152,25 +152,15 @@
 								<key>Size</key>
 								<integer>19481</integer>
 							</dict>
-							<key>files/stacks.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								wgmIAuepvJFg
-								INqwDCfPXQ==
-								</data>
-								<key>Size</key>
-								<integer>1879</integer>
-							</dict>
 							<key>files/stacks_page_page37.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								A52jV1E+Iw4b
-								nOCCbxRRtw==
+								ag6NjCQojiVs
+								xRNO6S1EKA==
 								</data>
 								<key>Size</key>
-								<integer>156432</integer>
+								<integer>156729</integer>
 							</dict>
 							<key>files/stacks_page_page37.js</key>
 							<dict>
@@ -186,17 +176,17 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								U4EEt+gvtpp4
-								Q2SspW9FNQ==
+								KM8Yyx8hG9zf
+								QvqDqBnvnA==
 								</data>
 								<key>Size</key>
-								<integer>78133</integer>
+								<integer>78570</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page37</string>
 						<key>SiteRoot</key>
-						<string>events/ALIFE-2020/Virtual/ART GALLERY </string>
+						<string>events/ALIFE-2020/Virtual/ARTGALLERY</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
