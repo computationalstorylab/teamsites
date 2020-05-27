@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-05-26T20:43:36Z</date>
+						<date>2020-05-27T18:57:33Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -90,16 +90,6 @@
 								<key>Size</key>
 								<integer>21987</integer>
 							</dict>
-							<key>files/stacks-image-08ae846.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								R11uYrVI9AjI
-								P/L5j6K/hA==
-								</data>
-								<key>Size</key>
-								<integer>86025</integer>
-							</dict>
 							<key>files/stacks-image-097fb8f-400x190.png</key>
 							<dict>
 								<key>Digest</key>
@@ -120,35 +110,95 @@
 								<key>Size</key>
 								<integer>68378</integer>
 							</dict>
-							<key>files/stacks-image-56a1744-350x375.jpg</key>
+							<key>files/stacks-image-5518809-300x256.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								K9BUrEPed8Ge
-								TkxxlCvL5w==
+								VOHfmkZaWtzN
+								VBwZhUyKNw==
 								</data>
 								<key>Size</key>
-								<integer>33861</integer>
+								<integer>30908</integer>
 							</dict>
-							<key>files/stacks-image-78e2932.jpg</key>
+							<key>files/stacks-image-5518809-300x256@2x.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								R11uYrVI9AjI
-								P/L5j6K/hA==
+								zAioOcRkzC1g
+								Zt3ufKhC6g==
 								</data>
 								<key>Size</key>
-								<integer>86025</integer>
+								<integer>53399</integer>
 							</dict>
-							<key>files/stacks-image-9e44611-350x450.png</key>
+							<key>files/stacks-image-6ebb971-174x250.png</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								4REYtxEkrr/S
-								TkpNxjbtKw==
+								6Q+YFVCLtobT
+								hg1wXXMYjw==
 								</data>
 								<key>Size</key>
-								<integer>316533</integer>
+								<integer>87835</integer>
+							</dict>
+							<key>files/stacks-image-6ebb971-174x250@2x.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								z0BEe6lR5NyD
+								lQ+Za1Ad9A==
+								</data>
+								<key>Size</key>
+								<integer>314262</integer>
+							</dict>
+							<key>files/stacks-image-6ebb971-244x350.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								2EhHUbzDtYYK
+								PuipcAkf/g==
+								</data>
+								<key>Size</key>
+								<integer>165890</integer>
+							</dict>
+							<key>files/stacks-image-bd6dcce-290x250.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								498XuWPZAXX3
+								rPQ+cHrxBQ==
+								</data>
+								<key>Size</key>
+								<integer>30177</integer>
+							</dict>
+							<key>files/stacks-image-bd6dcce-290x250@2x.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								gKqXYecvRT/O
+								iaw/qCQuYw==
+								</data>
+								<key>Size</key>
+								<integer>53310</integer>
+							</dict>
+							<key>files/stacks-image-bd6dcce-300x256.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								VOHfmkZaWtzN
+								VBwZhUyKNw==
+								</data>
+								<key>Size</key>
+								<integer>30908</integer>
+							</dict>
+							<key>files/stacks-image-bd6dcce-300x256@2x.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								zAioOcRkzC1g
+								Zt3ufKhC6g==
+								</data>
+								<key>Size</key>
+								<integer>53399</integer>
 							</dict>
 							<key>files/stacks-image-e97f241-400x164.png</key>
 							<dict>
@@ -159,16 +209,6 @@
 								</data>
 								<key>Size</key>
 								<integer>19481</integer>
-							</dict>
-							<key>files/stacks-image-eba9e45-350x450.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4REYtxEkrr/S
-								TkpNxjbtKw==
-								</data>
-								<key>Size</key>
-								<integer>316533</integer>
 							</dict>
 							<key>files/stacks.css</key>
 							<dict>
@@ -184,31 +224,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								0HZTLY8RciKf
-								LuQUW2kQ2g==
+								4B1Bbob1z+zL
+								PJ8DukFEyA==
 								</data>
 								<key>Size</key>
-								<integer>234126</integer>
+								<integer>126126</integer>
 							</dict>
 							<key>files/stacks_page_page37.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								u0PmUmFNzIcF
-								c508WrljvA==
+								KTqQUDwJAllY
+								wimNfb5szg==
 								</data>
 								<key>Size</key>
-								<integer>33715</integer>
+								<integer>24263</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								zczGu28dZ6lI
-								46v7iOVEIQ==
+								Owc9bstIZwRi
+								6X/iVm6GUQ==
 								</data>
 								<key>Size</key>
-								<integer>135970</integer>
+								<integer>71035</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
