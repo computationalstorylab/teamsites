@@ -34,7 +34,11 @@ display:block;
 margin-bottom:1rem;
 }
 
-}</string>
+}
+
+
+&lt;link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"&gt; 
+</string>
 				<key>CustomCopyrightUsed</key>
 				<false/>
 				<key>CustomHeader</key>
@@ -47,7 +51,9 @@ margin-bottom:1rem;
 
   gtag('config', 'UA-122716818-1');
 &lt;/script&gt;
-</string>
+
+
+&lt;link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"&gt;</string>
 				<key>CustomSiteTitleUsed</key>
 				<false/>
 				<key>CustomSloganUsed</key>
