@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-06-22T21:22:36Z</date>
+						<date>2020-06-22T21:27:32Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -170,6 +170,16 @@
 								<key>Size</key>
 								<integer>32936</integer>
 							</dict>
+							<key>files/stacks-image-47ac19a-350x450.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								bcVHxYxgBQUL
+								IEYYwkBSGQ==
+								</data>
+								<key>Size</key>
+								<integer>30128</integer>
+							</dict>
 							<key>files/stacks-image-4b4af78-350x450.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -220,16 +230,6 @@
 								<key>Size</key>
 								<integer>357879</integer>
 							</dict>
-							<key>files/stacks-image-8147c3d-350x450.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								KCruSmIq3O8H
-								QZjKuo1bdg==
-								</data>
-								<key>Size</key>
-								<integer>30771</integer>
-							</dict>
 							<key>files/stacks-image-9e44611-350x450.png</key>
 							<dict>
 								<key>Digest</key>
@@ -249,6 +249,16 @@
 								</data>
 								<key>Size</key>
 								<integer>252055</integer>
+							</dict>
+							<key>files/stacks-image-e0f37e6-350x450.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								bcVHxYxgBQUL
+								IEYYwkBSGQ==
+								</data>
+								<key>Size</key>
+								<integer>30128</integer>
 							</dict>
 							<key>files/stacks-image-e1d92c9.png</key>
 							<dict>
@@ -280,16 +290,6 @@
 								<key>Size</key>
 								<integer>316533</integer>
 							</dict>
-							<key>files/stacks-image-fb79e8e-350x450.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								KCruSmIq3O8H
-								QZjKuo1bdg==
-								</data>
-								<key>Size</key>
-								<integer>30771</integer>
-							</dict>
 							<key>files/stacks_page_page77.css</key>
 							<dict>
 								<key>Digest</key>
@@ -314,8 +314,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								cMDQIeNKNJaU
-								REUvwr53Pw==
+								U3GsW+vknVAP
+								2CJd7Ba43w==
 								</data>
 								<key>Size</key>
 								<integer>105172</integer>
