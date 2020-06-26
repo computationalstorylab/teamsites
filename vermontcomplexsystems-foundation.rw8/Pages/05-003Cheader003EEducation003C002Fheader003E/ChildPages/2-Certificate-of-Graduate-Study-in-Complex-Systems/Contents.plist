@@ -33,7 +33,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-06-17T15:31:39Z</date>
+						<date>2020-06-26T14:29:10Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -47,26 +47,6 @@
 								</data>
 								<key>Size</key>
 								<integer>260234</integer>
-							</dict>
-							<key>files/medium_525745.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								awWUX/ecvP0d
-								3geqkqj1Bw==
-								</data>
-								<key>Size</key>
-								<integer>31185</integer>
-							</dict>
-							<key>files/medium_525746.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								T+YCYuU8mYwA
-								9dKUL7J8Sg==
-								</data>
-								<key>Size</key>
-								<integer>31103</integer>
 							</dict>
 							<key>files/medium_525806.png</key>
 							<dict>
@@ -87,86 +67,6 @@
 								</data>
 								<key>Size</key>
 								<integer>306447</integer>
-							</dict>
-							<key>files/small_525521.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								uwW5EaO0TZSF
-								OERmYQtmzg==
-								</data>
-								<key>Size</key>
-								<integer>88810</integer>
-							</dict>
-							<key>files/small_525664.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								5+t9XVPD46G2
-								sqwq01uoMg==
-								</data>
-								<key>Size</key>
-								<integer>251461</integer>
-							</dict>
-							<key>files/small_525744.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								u2w2yG/YQ6pL
-								1p+apVl5/w==
-								</data>
-								<key>Size</key>
-								<integer>25244</integer>
-							</dict>
-							<key>files/small_525745.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ttO6QbIwllw0
-								fYKsouCeYw==
-								</data>
-								<key>Size</key>
-								<integer>156890</integer>
-							</dict>
-							<key>files/small_525746.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								/ZVPJGCKFaUW
-								475ADmpVVg==
-								</data>
-								<key>Size</key>
-								<integer>156673</integer>
-							</dict>
-							<key>files/small_525752.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								7z83DvVOmoZh
-								OzhDztdtFg==
-								</data>
-								<key>Size</key>
-								<integer>30991</integer>
-							</dict>
-							<key>files/small_525798.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								MdxlMZUnyuZb
-								UUbmqMAanQ==
-								</data>
-								<key>Size</key>
-								<integer>16936</integer>
-							</dict>
-							<key>files/small_525803.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								dXEfTaWGtptT
-								/8dX1Y5CBg==
-								</data>
-								<key>Size</key>
-								<integer>21982</integer>
 							</dict>
 							<key>files/small_525804.png</key>
 							<dict>
@@ -268,6 +168,16 @@
 								<key>Size</key>
 								<integer>19481</integer>
 							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								wgmIAuepvJFg
+								INqwDCfPXQ==
+								</data>
+								<key>Size</key>
+								<integer>1879</integer>
+							</dict>
 							<key>files/stacks_in_p525893_n7_page47_export.php</key>
 							<dict>
 								<key>Digest</key>
@@ -312,11 +222,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								vIs0vlcx6xbl
-								v9r+ue7Pbg==
+								OEMoucyvA8Nf
+								Wd4MmhEZkQ==
 								</data>
 								<key>Size</key>
-								<integer>182321</integer>
+								<integer>108472</integer>
 							</dict>
 							<key>files/stacks_page_page47.js</key>
 							<dict>
@@ -332,11 +242,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								mXsCQ2h5L8l3
-								J3+1UFu3xw==
+								dUmd0P2i3d9P
+								v1N7mK9XIw==
 								</data>
 								<key>Size</key>
-								<integer>101429</integer>
+								<integer>42880</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
