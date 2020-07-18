@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-07-11T18:03:38Z</date>
+						<date>2020-07-18T12:30:30Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -430,6 +430,16 @@
 								<key>Size</key>
 								<integer>36680</integer>
 							</dict>
+							<key>files/stacks-image-fbb6677.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								QY+g+er0kC8U
+								06S3dnnoVA==
+								</data>
+								<key>Size</key>
+								<integer>108523</integer>
+							</dict>
 							<key>files/stacks-image-ffaa771.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -444,31 +454,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								1yzoMispNuKR
-								QU/+GxDNow==
+								LXpFL/mOaU8z
+								BtAtQCn+sg==
 								</data>
 								<key>Size</key>
-								<integer>226503</integer>
+								<integer>229273</integer>
 							</dict>
 							<key>files/stacks_page_page79.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								blxQOuFjdrmV
-								AdS84R1jjw==
+								A8ox/XLtsCa+
+								ccOQl5YOiw==
 								</data>
 								<key>Size</key>
-								<integer>29021</integer>
+								<integer>29203</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								M26xORYDI5Y5
-								sPOZpCvYNw==
+								uAsWE4D9NEo8
+								4hsUaXK0WQ==
 								</data>
 								<key>Size</key>
-								<integer>158015</integer>
+								<integer>160211</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
