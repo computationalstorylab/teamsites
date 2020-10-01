@@ -55,7 +55,7 @@ margin-bottom:1rem;
 				<key>DefaultLinkTarget</key>
 				<string>self</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
