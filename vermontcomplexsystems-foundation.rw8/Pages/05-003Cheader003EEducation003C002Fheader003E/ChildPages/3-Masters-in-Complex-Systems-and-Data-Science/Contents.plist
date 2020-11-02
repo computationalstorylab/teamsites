@@ -33,7 +33,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2020-08-17T17:00:35Z</date>
+						<date>2020-11-02T13:41:29Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -318,56 +318,6 @@
 								<key>Size</key>
 								<integer>19481</integer>
 							</dict>
-							<key>files/stacks.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								wgmIAuepvJFg
-								INqwDCfPXQ==
-								</data>
-								<key>Size</key>
-								<integer>1879</integer>
-							</dict>
-							<key>files/stacks_in_p306464_n7_page0_export.php</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								6qyOSyR17JIQ
-								Q8hlwB30Jw==
-								</data>
-								<key>Size</key>
-								<integer>1088</integer>
-							</dict>
-							<key>files/stacks_in_p306464_n7_page0_phpinsert.php</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								JpAFwJhywTEy
-								c04/oOkpaA==
-								</data>
-								<key>Size</key>
-								<integer>1032</integer>
-							</dict>
-							<key>files/stacks_in_p306464_n7_page0_phpmailer.php</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ny6YrIA5gE/K
-								G+7Do2yW2g==
-								</data>
-								<key>Size</key>
-								<integer>1238</integer>
-							</dict>
-							<key>files/stacks_in_p306464_n7_page0_phpmailer2.php</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								OKpHU5GbmpQx
-								Ubz10ER4xQ==
-								</data>
-								<key>Size</key>
-								<integer>1218</integer>
-							</dict>
 							<key>files/stacks_page_page0.css</key>
 							<dict>
 								<key>Digest</key>
@@ -392,11 +342,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								yp889/lle5fH
-								2aQBWGfFSw==
+								COiYR+8w84ET
+								/eVEO0qNwA==
 								</data>
 								<key>Size</key>
-								<integer>137924</integer>
+								<integer>138039</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
