@@ -33,7 +33,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-11T16:31:17Z</date>
+						<date>2021-05-06T14:57:07Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -178,6 +178,16 @@
 								<key>Size</key>
 								<integer>68378</integer>
 							</dict>
+							<key>files/stacks-image-17aefd8-1198x800.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								oyVy9MDAnT+p
+								BEu+PSyCmQ==
+								</data>
+								<key>Size</key>
+								<integer>399479</integer>
+							</dict>
 							<key>files/stacks-image-96b08f6.png</key>
 							<dict>
 								<key>Digest</key>
@@ -187,16 +197,6 @@
 								</data>
 								<key>Size</key>
 								<integer>13146</integer>
-							</dict>
-							<key>files/stacks-image-ce76f8d.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								7ktZXpZWXA3B
-								3DspNNKK9A==
-								</data>
-								<key>Size</key>
-								<integer>646684</integer>
 							</dict>
 							<key>files/stacks-image-e66d9f8-1200x380.png</key>
 							<dict>
@@ -222,31 +222,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								17XUPG8XjGXA
-								K6/a+Y2G2w==
+								bOhKMZVGXYHv
+								QNsmr/F68w==
 								</data>
 								<key>Size</key>
-								<integer>155083</integer>
+								<integer>158399</integer>
 							</dict>
 							<key>files/stacks_page_page22.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								dSAqVCQaswUd
-								GckjUW5k0g==
+								6Kl0iemIu+qe
+								MFk5mn5KDw==
 								</data>
 								<key>Size</key>
-								<integer>23663</integer>
+								<integer>24472</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								UrnF1P1RSaC4
-								bwf/MAakzA==
+								3f8UVkGoUmZM
+								dZYaaNFnpw==
 								</data>
 								<key>Size</key>
-								<integer>81866</integer>
+								<integer>82938</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -262,6 +262,7 @@
 			<array/>
 			<key>Subsandwiches</key>
 			<array>
+				<string>ChildPages</string>
 				<string>Data</string>
 				<string>PageAttributes</string>
 			</array>

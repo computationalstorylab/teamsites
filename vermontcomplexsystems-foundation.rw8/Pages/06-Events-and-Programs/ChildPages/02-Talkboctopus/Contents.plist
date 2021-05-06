@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-04-12T14:20:52Z</date>
+						<date>2021-05-06T14:55:49Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -259,26 +259,6 @@
 								</data>
 								<key>Size</key>
 								<integer>253692</integer>
-							</dict>
-							<key>files/stacks-image-5254671-200x250.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								P8WNMMTn/lbO
-								oZ5HfLJHuQ==
-								</data>
-								<key>Size</key>
-								<integer>12715</integer>
-							</dict>
-							<key>files/stacks-image-5254671-200x250@2x.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								tDbTdIDw5otT
-								H8Qq/SaOEg==
-								</data>
-								<key>Size</key>
-								<integer>18807</integer>
 							</dict>
 							<key>files/stacks-image-5259eb3-200x250.png</key>
 							<dict>
@@ -570,16 +550,6 @@
 								<key>Size</key>
 								<integer>119156</integer>
 							</dict>
-							<key>files/stacks-image-f542824-200x250.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Q3HZltLe5f/J
-								5AotCJ2rug==
-								</data>
-								<key>Size</key>
-								<integer>51860</integer>
-							</dict>
 							<key>files/stacks-image-fb2ed7f-300x300.png</key>
 							<dict>
 								<key>Digest</key>
@@ -599,16 +569,6 @@
 								</data>
 								<key>Size</key>
 								<integer>622086</integer>
-							</dict>
-							<key>files/stacks.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								wgmIAuepvJFg
-								INqwDCfPXQ==
-								</data>
-								<key>Size</key>
-								<integer>1879</integer>
 							</dict>
 							<key>files/stacks_page_page91.css</key>
 							<dict>
@@ -634,11 +594,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								0j02BZDM3+Wf
-								tvjaCIyffA==
+								sLZJzgC0Yvjw
+								ScCbm33M9Q==
 								</data>
 								<key>Size</key>
-								<integer>181400</integer>
+								<integer>181546</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
