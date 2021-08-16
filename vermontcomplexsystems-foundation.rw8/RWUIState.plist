@@ -5,9 +5,11 @@
 	<key>expandedItems</key>
 	<array>
 		<string>page3</string>
+		<string>page10</string>
+		<string>page5</string>
 	</array>
 	<key>pageInspectorVisible</key>
-	<false/>
+	<true/>
 	<key>projectViewVisible</key>
 	<true/>
 	<key>projectViewWidth</key>
@@ -16,7 +18,7 @@
 	<string>info</string>
 	<key>selectedItems</key>
 	<array>
-		<string>Publishing Configuration View</string>
+		<string>page6</string>
 	</array>
 	<key>selectedMode</key>
 	<integer>0</integer>
