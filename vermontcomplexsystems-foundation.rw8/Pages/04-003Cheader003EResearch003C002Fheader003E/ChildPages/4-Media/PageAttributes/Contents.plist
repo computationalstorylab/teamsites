@@ -70,6 +70,19 @@ margin-bottom:1rem;
 				<string>High</string>
 				<key>IndexFilename</key>
 				<string>index.html</string>
+				<key>MetaDescription</key>
+				<string>Media from the Vermont Complex Systems Center</string>
+				<key>MetaTags</key>
+				<array>
+					<dict>
+						<key>Name</key>
+						<string>media</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>complex systems</string>
+					</dict>
+				</array>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>
@@ -92,6 +105,10 @@ margin-bottom:1rem;
 				<string>utf-8</string>
 				<key>Variables</key>
 				<dict/>
+				<key>openGraphDescription</key>
+				<string>Media from the Vermont Complex Systems Center</string>
+				<key>openGraphTitle</key>
+				<string>Media from the Vermont Complex Systems Center</string>
 			</dict>
 			<key>Files</key>
 			<array/>

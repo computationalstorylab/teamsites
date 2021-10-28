@@ -70,6 +70,27 @@ margin-bottom:1rem;
 				<string>High</string>
 				<key>IndexFilename</key>
 				<string>index.html</string>
+				<key>MetaDescription</key>
+				<string>PhD Programs at the Vermont Complex Systems Center</string>
+				<key>MetaTags</key>
+				<array>
+					<dict>
+						<key>Name</key>
+						<string>PhD</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Doctoral</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Complex Systems</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Data Science</string>
+					</dict>
+				</array>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>
@@ -92,6 +113,10 @@ margin-bottom:1rem;
 				<string>utf-8</string>
 				<key>Variables</key>
 				<dict/>
+				<key>openGraphDescription</key>
+				<string>PhD Programs at the Vermont Complex Systems Center</string>
+				<key>openGraphTitle</key>
+				<string>PhD Programs at the Vermont Complex Systems Center</string>
 			</dict>
 			<key>Files</key>
 			<array/>

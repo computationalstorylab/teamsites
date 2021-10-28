@@ -13,18 +13,14 @@
 			<array/>
 			<key>Subsandwiches</key>
 			<array>
-				<string>01-Complex-Networks-Winter-Workshop</string>
-				<string>02-Talkboctopus</string>
-				<string>03-Events-Calendar</string>
-				<string>04-Summer-REU</string>
-				<string>05-Seminars-0026-Tutorials</string>
-				<string>06-Paper-Shredder</string>
-				<string>07-UVM-K-12-STEM-</string>
-				<string>08-NetSci-2019</string>
-				<string>09-Symposium---Science-of-stories</string>
-				<string>10-Symposium---Health-and-Wellness</string>
-				<string>11-Dictionary-As-Data</string>
-				<string>12-ALIFE-2020</string>
+				<string>1-Talkboctopus</string>
+				<string>2-Complex-Networks-Winter-Workshop</string>
+				<string>3-Seminars-0026-Tutorials</string>
+				<string>4-Paper-Shredder</string>
+				<string>5-Summer-REU</string>
+				<string>6-NetSci-2019</string>
+				<string>7-Symposium---Science-of-stories</string>
+				<string>8-ALIFE-2020</string>
 			</array>
 		</dict>
 	</array>

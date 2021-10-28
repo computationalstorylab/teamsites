@@ -78,6 +78,24 @@ margin-bottom:1rem;
 				<string>High</string>
 				<key>IndexFilename</key>
 				<string>index.html</string>
+				<key>MetaDescription</key>
+				<string>Research groups at the Vermont Complex Systems Center</string>
+				<key>MetaTags</key>
+				<array>
+					<dict>
+						<key>Name</key>
+						<string>research</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>science</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>complex systems</string>
+					</dict>
+					<dict/>
+				</array>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>
@@ -100,6 +118,10 @@ margin-bottom:1rem;
 				<string>utf-8</string>
 				<key>Variables</key>
 				<dict/>
+				<key>openGraphDescription</key>
+				<string>Research groups at the Vermont Complex Systems Center</string>
+				<key>openGraphTitle</key>
+				<string>Research at Vermont Complex Systems Center</string>
 			</dict>
 			<key>Files</key>
 			<array/>

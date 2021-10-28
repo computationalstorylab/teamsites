@@ -61,6 +61,19 @@
 				<string>High</string>
 				<key>IndexFilename</key>
 				<string>index.html</string>
+				<key>MetaDescription</key>
+				<string>Research Overview page for the Vermont Complex Systems Center at the University of Vermont</string>
+				<key>MetaTags</key>
+				<array>
+					<dict>
+						<key>Name</key>
+						<string>complex systems</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>research</string>
+					</dict>
+				</array>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>RobotsShouldFollowLinks</key>
@@ -77,6 +90,10 @@
 				<string>utf-8</string>
 				<key>Variables</key>
 				<dict/>
+				<key>openGraphDescription</key>
+				<string>Research Overview page for the Vermont Complex Systems Center at the University of Vermont</string>
+				<key>openGraphTitle</key>
+				<string>Research at the Vermont Complex Systems Center</string>
 			</dict>
 			<key>Files</key>
 			<array/>
