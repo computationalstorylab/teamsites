@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-10-28T21:46:17Z</date>
+						<date>2021-10-29T14:53:00Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -120,46 +120,6 @@
 								<key>Size</key>
 								<integer>68367</integer>
 							</dict>
-							<key>files/stacks-image-5518809-300x256.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								m7RB2S1Q2d9u
-								gNaK1MHmzg==
-								</data>
-								<key>Size</key>
-								<integer>30892</integer>
-							</dict>
-							<key>files/stacks-image-5518809-300x256@2x.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								rGrMZ9fIG5/d
-								wCj5TBicVQ==
-								</data>
-								<key>Size</key>
-								<integer>53383</integer>
-							</dict>
-							<key>files/stacks-image-bd6dcce-300x256.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								m7RB2S1Q2d9u
-								gNaK1MHmzg==
-								</data>
-								<key>Size</key>
-								<integer>30892</integer>
-							</dict>
-							<key>files/stacks-image-bd6dcce-300x256@2x.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								rGrMZ9fIG5/d
-								wCj5TBicVQ==
-								</data>
-								<key>Size</key>
-								<integer>53383</integer>
-							</dict>
 							<key>files/stacks-image-e97f241-400x164.png</key>
 							<dict>
 								<key>Digest</key>
@@ -174,11 +134,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								ZEGpJE0m01a0
-								VgFpiruPkA==
+								oCAuXw1H7GIX
+								iWD8TYKbqg==
 								</data>
 								<key>Size</key>
-								<integer>112207</integer>
+								<integer>112276</integer>
 							</dict>
 							<key>files/stacks_page_page74.js</key>
 							<dict>
@@ -194,11 +154,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								XE9Y4E3BEdqQ
-								Nrz87J/c+A==
+								QN9VM+N2zjxA
+								XX6wHWY9uQ==
 								</data>
 								<key>Size</key>
-								<integer>51994</integer>
+								<integer>52028</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

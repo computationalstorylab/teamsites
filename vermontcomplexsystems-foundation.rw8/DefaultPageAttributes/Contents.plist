@@ -19,7 +19,7 @@
 				<key>DefaultLinkTarget</key>
 				<string></string>
 				<key>FilenameExtension</key>
-				<string>html</string>
+				<string>php</string>
 				<key>HasCustomThemeStyle</key>
 				<false/>
 				<key>Hidden</key>
@@ -30,6 +30,10 @@
 				<string>High</string>
 				<key>IndexFilename</key>
 				<string></string>
+				<key>MetaTags</key>
+				<array>
+					<dict/>
+				</array>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>RobotsShouldFollowLinks</key>
