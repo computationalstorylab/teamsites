@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-10-29T14:53:00Z</date>
+						<date>2021-11-05T00:43:40Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -120,6 +120,16 @@
 								<key>Size</key>
 								<integer>46883</integer>
 							</dict>
+							<key>files/stacks-image-0205f1f.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								o6DTjE5gl0ek
+								NIdxOTDkBQ==
+								</data>
+								<key>Size</key>
+								<integer>111479</integer>
+							</dict>
 							<key>files/stacks-image-097fb8f-400x190.png</key>
 							<dict>
 								<key>Digest</key>
@@ -139,6 +149,16 @@
 								</data>
 								<key>Size</key>
 								<integer>68367</integer>
+							</dict>
+							<key>files/stacks-image-3f347ef-1200x208.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								QjU4ok2pGIry
+								dGY0NjoFuw==
+								</data>
+								<key>Size</key>
+								<integer>38819</integer>
 							</dict>
 							<key>files/stacks-image-73b449d-700x116.png</key>
 							<dict>
@@ -200,15 +220,25 @@
 								<key>Size</key>
 								<integer>31511</integer>
 							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								wgmIAuepvJFg
+								INqwDCfPXQ==
+								</data>
+								<key>Size</key>
+								<integer>1879</integer>
+							</dict>
 							<key>files/stacks_page_page50.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								axwgWEYqjWgK
-								OK8sX0F82g==
+								OQ8Pud+h5v64
+								9u4vnrAGkw==
 								</data>
 								<key>Size</key>
-								<integer>167120</integer>
+								<integer>171721</integer>
 							</dict>
 							<key>files/stacks_page_page50.js</key>
 							<dict>
@@ -224,11 +254,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								/C9rVkjPYBeD
-								xbEKg9GYpA==
+								/zD369iPLOVA
+								uaorEh8V7w==
 								</data>
 								<key>Size</key>
-								<integer>90167</integer>
+								<integer>102499</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

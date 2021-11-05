@@ -33,7 +33,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-10-29T14:53:00Z</date>
+						<date>2021-11-05T00:43:39Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -232,11 +232,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								LzZY+6fuBZb5
-								DBbmfWzXZQ==
+								SyBJfEW9MmfY
+								rClSnh8i3g==
 								</data>
 								<key>Size</key>
-								<integer>77891</integer>
+								<integer>77136</integer>
 							</dict>
 							<key>files/stacks-image-5a7224a-150x110.jpg</key>
 							<dict>
@@ -272,11 +272,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								vU3UYSg1Jcpu
-								i3wZUhaKRg==
+								NaqM76HLsVnU
+								3z/w1KBbMw==
 								</data>
 								<key>Size</key>
-								<integer>145243</integer>
+								<integer>145122</integer>
 							</dict>
 							<key>files/stacks-image-874cac4-150x70.png</key>
 							<dict>
@@ -398,55 +398,35 @@
 								<key>Size</key>
 								<integer>379823</integer>
 							</dict>
-							<key>files/stacks.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								wgmIAuepvJFg
-								INqwDCfPXQ==
-								</data>
-								<key>Size</key>
-								<integer>1879</integer>
-							</dict>
 							<key>files/stacks_page_page13.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								gGY0D6iIat59
-								/zagCAvyKg==
+								X6phoOJMlIeM
+								2r3M6cUWGA==
 								</data>
 								<key>Size</key>
-								<integer>122795</integer>
+								<integer>122794</integer>
 							</dict>
 							<key>files/stacks_page_page13.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								tbiBM5IRH9JN
-								bHxh+izCGg==
+								6Kl0iemIu+qe
+								MFk5mn5KDw==
 								</data>
 								<key>Size</key>
-								<integer>24578</integer>
+								<integer>24472</integer>
 							</dict>
-							<key>files/stacks_page_page13.php</key>
+							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								fL5jbTuHiQSj
-								3alpSYk1ow==
+								+6h29bRycfEA
+								3SZomTMaGg==
 								</data>
 								<key>Size</key>
-								<integer>20</integer>
-							</dict>
-							<key>index.php</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ChdV2ZOzcQQy
-								g1nOrFr3Cg==
-								</data>
-								<key>Size</key>
-								<integer>72900</integer>
+								<integer>71815</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

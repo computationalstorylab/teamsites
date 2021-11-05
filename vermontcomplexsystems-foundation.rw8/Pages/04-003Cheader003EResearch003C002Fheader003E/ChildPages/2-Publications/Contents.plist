@@ -33,7 +33,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-10-29T14:53:00Z</date>
+						<date>2021-11-05T00:43:39Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -332,41 +332,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								G2LaT3jGQdzI
-								ps4gP3ePJQ==
+								WcP3a51lZxZV
+								YQv+t/cljA==
 								</data>
 								<key>Size</key>
-								<integer>110158</integer>
+								<integer>110157</integer>
 							</dict>
 							<key>files/stacks_page_page23.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								tLOut7GB1S8c
-								o1OEJI9m7g==
+								6Kl0iemIu+qe
+								MFk5mn5KDw==
 								</data>
 								<key>Size</key>
-								<integer>24578</integer>
+								<integer>24472</integer>
 							</dict>
-							<key>files/stacks_page_page23.php</key>
+							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								fL5jbTuHiQSj
-								3alpSYk1ow==
+								PgSMtK+MUQbC
+								GLDQQQswYw==
 								</data>
 								<key>Size</key>
-								<integer>20</integer>
-							</dict>
-							<key>index.php</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								fqeQjZB8C9dG
-								NYMR7/5msw==
-								</data>
-								<key>Size</key>
-								<integer>61697</integer>
+								<integer>60577</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
