@@ -71,7 +71,7 @@ margin-bottom:1rem;
 				<key>IndexFilename</key>
 				<string>index.html</string>
 				<key>MetaDescription</key>
-				<string>The MassMutual Center of Excellence in Complex Systems &amp; Data Science</string>
+				<string>Center of Excellence in Complex Systems and Data Science </string>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>
@@ -83,7 +83,7 @@ margin-bottom:1rem;
 				<key>RobotsShouldIndexPage</key>
 				<true/>
 				<key>ShouldEnableRobotTags</key>
-				<false/>
+				<true/>
 				<key>ShouldEnableSocialTags</key>
 				<true/>
 				<key>SidebarEnabled</key>

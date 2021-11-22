@@ -60,12 +60,32 @@
 				<key>IndexFilename</key>
 				<string>index.html</string>
 				<key>MetaDescription</key>
-				<string>Homepage for the Vermont Complex Systems Center at the University of Vermont</string>
+				<string>Homepage for the Vermont Complex Systems Center. A postdisciplinary team of faculty and students working at the University of Vermont's College of Engineering and Mathematical Sciences on real-world, data-rich, and meaningful complex systems problems of all kinds.  </string>
 				<key>MetaTags</key>
 				<array>
 					<dict>
 						<key>Name</key>
-						<string>complex systems</string>
+						<string>Complex Systems</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Science</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Data Science</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Complexity</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Complex Adaptive Systems</string>
+					</dict>
+					<dict>
+						<key>Name</key>
+						<string>Research</string>
 					</dict>
 				</array>
 				<key>OutputXMLDeclaration</key>
@@ -79,7 +99,7 @@
 				<key>RobotsShouldIndexPage</key>
 				<true/>
 				<key>ShouldEnableRobotTags</key>
-				<false/>
+				<true/>
 				<key>ShouldEnableSocialTags</key>
 				<true/>
 				<key>SidebarEnabled</key>

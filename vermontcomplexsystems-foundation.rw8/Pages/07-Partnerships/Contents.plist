@@ -9,6 +9,8 @@
 		<dict>
 			<key>Dictionary</key>
 			<dict>
+				<key>BrowserTitle</key>
+				<string>Partnerships</string>
 				<key>CreatedDate</key>
 				<date>2016-02-08T13:45:29Z</date>
 				<key>ID</key>
@@ -33,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-11-19T21:01:19Z</date>
+						<date>2021-11-22T17:53:56Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -342,11 +344,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								14J7EOV6CiMh
-								2OtbGZ7sDg==
+								8xMbH1S8ocpC
+								r9k77nSZbA==
 								</data>
 								<key>Size</key>
-								<integer>77427</integer>
+								<integer>77311</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

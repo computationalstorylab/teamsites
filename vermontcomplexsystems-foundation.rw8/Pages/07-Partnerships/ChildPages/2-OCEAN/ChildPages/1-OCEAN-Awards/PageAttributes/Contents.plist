@@ -70,6 +70,8 @@ margin-bottom:1rem;
 				<string>High</string>
 				<key>IndexFilename</key>
 				<string>index.html</string>
+				<key>MetaDescription</key>
+				<string>ocean awards </string>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>
@@ -81,7 +83,7 @@ margin-bottom:1rem;
 				<key>RobotsShouldIndexPage</key>
 				<true/>
 				<key>ShouldEnableRobotTags</key>
-				<false/>
+				<true/>
 				<key>ShouldEnableSocialTags</key>
 				<true/>
 				<key>SidebarEnabled</key>

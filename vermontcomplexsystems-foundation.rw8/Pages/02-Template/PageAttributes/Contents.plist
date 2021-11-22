@@ -71,7 +71,7 @@ margin-bottom:1rem;
 				<key>IndexFilename</key>
 				<string>index.html</string>
 				<key>MetaDescription</key>
-				<string>This is a template page for the Vermont Complex Systems Center Website </string>
+				<string>template</string>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>
@@ -79,11 +79,11 @@ margin-bottom:1rem;
 				<key>PluginHasPerformedMigrationToSharedData</key>
 				<true/>
 				<key>RobotsShouldFollowLinks</key>
-				<true/>
-				<key>RobotsShouldIndexPage</key>
-				<true/>
-				<key>ShouldEnableRobotTags</key>
 				<false/>
+				<key>RobotsShouldIndexPage</key>
+				<false/>
+				<key>ShouldEnableRobotTags</key>
+				<true/>
 				<key>ShouldEnableSocialTags</key>
 				<true/>
 				<key>SidebarEnabled</key>

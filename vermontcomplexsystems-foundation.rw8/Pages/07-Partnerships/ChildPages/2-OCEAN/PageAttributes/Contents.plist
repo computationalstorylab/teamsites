@@ -71,18 +71,7 @@ margin-bottom:1rem;
 				<key>IndexFilename</key>
 				<string>index.html</string>
 				<key>MetaDescription</key>
-				<string>Open-Source Complex Ecosystems And Networks (OCEAN) </string>
-				<key>MetaTags</key>
-				<array>
-					<dict>
-						<key>Name</key>
-						<string>open source</string>
-					</dict>
-					<dict>
-						<key>Name</key>
-						<string>network science</string>
-					</dict>
-				</array>
+				<string>OCEAN</string>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>
@@ -94,7 +83,7 @@ margin-bottom:1rem;
 				<key>RobotsShouldIndexPage</key>
 				<true/>
 				<key>ShouldEnableRobotTags</key>
-				<false/>
+				<true/>
 				<key>ShouldEnableSocialTags</key>
 				<true/>
 				<key>SidebarEnabled</key>

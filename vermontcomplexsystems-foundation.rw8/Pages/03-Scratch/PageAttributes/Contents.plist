@@ -70,6 +70,8 @@ margin-bottom:1rem;
 				<string>High</string>
 				<key>IndexFilename</key>
 				<string>index.html</string>
+				<key>MetaDescription</key>
+				<string>scratch page</string>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>
@@ -77,11 +79,11 @@ margin-bottom:1rem;
 				<key>PluginHasPerformedMigrationToSharedData</key>
 				<true/>
 				<key>RobotsShouldFollowLinks</key>
-				<true/>
-				<key>RobotsShouldIndexPage</key>
-				<true/>
-				<key>ShouldEnableRobotTags</key>
 				<false/>
+				<key>RobotsShouldIndexPage</key>
+				<false/>
+				<key>ShouldEnableRobotTags</key>
+				<true/>
 				<key>ShouldEnableSocialTags</key>
 				<true/>
 				<key>SidebarEnabled</key>

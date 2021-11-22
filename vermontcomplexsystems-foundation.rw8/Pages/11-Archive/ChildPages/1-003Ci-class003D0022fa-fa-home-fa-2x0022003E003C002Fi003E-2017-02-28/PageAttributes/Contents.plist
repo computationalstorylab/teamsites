@@ -57,7 +57,7 @@
 				<key>RobotsShouldIndexPage</key>
 				<true/>
 				<key>ShouldEnableRobotTags</key>
-				<false/>
+				<true/>
 				<key>ShouldEnableSocialTags</key>
 				<true/>
 				<key>SidebarEnabled</key>
