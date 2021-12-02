@@ -71,11 +71,11 @@ margin-bottom:1rem;
 				<key>IndexFilename</key>
 				<string>index.html</string>
 				<key>MetaDescription</key>
-				<string>reading groups</string>
+				<string>Paper Shredder are the Reading Groups at the Vermont Complex Systems Center</string>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>
-				<string>php</string>
+				<string>html</string>
 				<key>PluginHasPerformedMigrationToSharedData</key>
 				<true/>
 				<key>RobotsShouldFollowLinks</key>
@@ -95,7 +95,7 @@ margin-bottom:1rem;
 				<key>Variables</key>
 				<dict/>
 				<key>openGraphDescription</key>
-				<string>Reading Groups at the Vermont Complex Systems Center</string>
+				<string>Paper Shredder are the Reading Groups at the Vermont Complex Systems Center</string>
 				<key>openGraphTitle</key>
 				<string>Reading Groups at the Vermont Complex Systems Center</string>
 			</dict>

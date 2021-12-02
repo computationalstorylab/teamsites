@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-12-02T17:33:15Z</date>
+						<date>2021-12-02T19:35:00Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -210,15 +210,25 @@
 								<key>Size</key>
 								<integer>31511</integer>
 							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								wgmIAuepvJFg
+								INqwDCfPXQ==
+								</data>
+								<key>Size</key>
+								<integer>1879</integer>
+							</dict>
 							<key>files/stacks_page_page50.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								OQ8Pud+h5v64
-								9u4vnrAGkw==
+								ZC/s4atQMaYY
+								OjKw4Ibl3w==
 								</data>
 								<key>Size</key>
-								<integer>171721</integer>
+								<integer>151393</integer>
 							</dict>
 							<key>files/stacks_page_page50.js</key>
 							<dict>
@@ -234,17 +244,17 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								aAfH43OJuq/W
-								w+bET6v4TQ==
+								08b9+k3tqMx6
+								XWsxZ/aHtQ==
 								</data>
 								<key>Size</key>
-								<integer>103326</integer>
+								<integer>65009</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page50</string>
 						<key>SiteRoot</key>
-						<string>education/funding</string>
+						<string>education/Fellowships</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>

@@ -94,6 +94,10 @@ margin-bottom:1rem;
 				<string>utf-8</string>
 				<key>Variables</key>
 				<dict/>
+				<key>openGraphDescription</key>
+				<string>Dictionary as data event </string>
+				<key>openGraphTitle</key>
+				<string>Dictionary as data </string>
 			</dict>
 			<key>Files</key>
 			<array/>

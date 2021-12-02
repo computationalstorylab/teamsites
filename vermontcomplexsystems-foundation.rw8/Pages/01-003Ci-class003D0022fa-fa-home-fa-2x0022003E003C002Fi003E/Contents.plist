@@ -10,7 +10,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>BrowserTitle</key>
-				<string>The Vermont Complex Systems Center</string>
+				<string>Home of The Vermont Complex Systems Center</string>
 				<key>CreatedDate</key>
 				<date>2016-01-15T12:17:03Z</date>
 				<key>ID</key>
@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-12-02T17:33:15Z</date>
+						<date>2021-12-02T19:28:37Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -44,11 +44,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								6Ma/sT7N9gdF
-								6UkpfDMJBw==
+								F/xDEuuKkhaT
+								uhMxP7h4Zw==
 								</data>
 								<key>Size</key>
-								<integer>89780</integer>
+								<integer>89984</integer>
 							</dict>
 							<key>index_files/large-526602.png</key>
 							<dict>
@@ -429,6 +429,16 @@
 								</data>
 								<key>Size</key>
 								<integer>19470</integer>
+							</dict>
+							<key>index_files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								wgmIAuepvJFg
+								INqwDCfPXQ==
+								</data>
+								<key>Size</key>
+								<integer>1879</integer>
 							</dict>
 							<key>index_files/stacks_page_page1.css</key>
 							<dict>

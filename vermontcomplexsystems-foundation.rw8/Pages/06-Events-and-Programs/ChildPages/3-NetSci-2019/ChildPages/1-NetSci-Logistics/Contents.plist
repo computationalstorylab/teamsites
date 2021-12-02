@@ -10,7 +10,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>BrowserTitle</key>
-				<string>Logistics</string>
+				<string>Logistics Alife</string>
 				<key>CreatedDate</key>
 				<date>2016-02-08T13:45:29Z</date>
 				<key>ID</key>
@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-12-02T17:33:15Z</date>
+						<date>2021-12-02T19:28:37Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -184,11 +184,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								SZv+s8piGBoW
-								xWJ4juW6CA==
+								ia47dmtsqVVi
+								0mIElwBkrw==
 								</data>
 								<key>Size</key>
-								<integer>125358</integer>
+								<integer>125609</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
