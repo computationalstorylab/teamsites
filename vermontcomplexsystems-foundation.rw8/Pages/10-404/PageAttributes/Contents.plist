@@ -75,7 +75,7 @@ margin-bottom:1rem;
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>
-				<string>html</string>
+				<string>php</string>
 				<key>PluginHasPerformedMigrationToSharedData</key>
 				<true/>
 				<key>RobotsShouldFollowLinks</key>
@@ -96,6 +96,8 @@ margin-bottom:1rem;
 				<dict/>
 				<key>openGraphDescription</key>
 				<string>error page</string>
+				<key>openGraphImageResourceIdentifier</key>
+				<string>311CBDD2-92B7-4018-B098-48F28E0D09AF</string>
 				<key>openGraphTitle</key>
 				<string>error page</string>
 			</dict>

@@ -60,7 +60,7 @@
 				<key>IndexFilename</key>
 				<string>index.html</string>
 				<key>MetaDescription</key>
-				<string>Homepage for the Vermont Complex Systems Center. A postdisciplinary team of faculty and students working at the University of Vermont's College of Engineering and Mathematical Sciences on real-world, data-rich, and meaningful complex systems problems of all kinds.  </string>
+				<string>A postdisciplinary team of faculty and students working at the University of Vermont on real-world, data-rich, complex systems problems.  </string>
 				<key>MetaTags</key>
 				<array>
 					<dict>
@@ -109,7 +109,9 @@
 				<key>Variables</key>
 				<dict/>
 				<key>openGraphDescription</key>
-				<string>Homepage for the Vermont Complex Systems Center at the University of Vermont</string>
+				<string>A postdisciplinary team of faculty and students working at the University of Vermont on real-world, data-rich, complex systems problems.  </string>
+				<key>openGraphImageResourceIdentifier</key>
+				<string>168AD1CD-3DCC-4494-9714-0FE48C7B9C8F</string>
 				<key>openGraphTitle</key>
 				<string>Vermont Complex Systems Center </string>
 			</dict>
