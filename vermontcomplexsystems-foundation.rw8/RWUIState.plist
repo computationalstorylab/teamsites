@@ -4,12 +4,13 @@
 <dict>
 	<key>expandedItems</key>
 	<array>
+		<string>page22</string>
 		<string>page16</string>
 		<string>page87</string>
 		<string>page2</string>
 	</array>
 	<key>pageInspectorVisible</key>
-	<false/>
+	<true/>
 	<key>projectViewVisible</key>
 	<true/>
 	<key>projectViewWidth</key>
@@ -18,7 +19,7 @@
 	<string>info</string>
 	<key>selectedItems</key>
 	<array>
-		<string>page91</string>
+		<string>page25</string>
 	</array>
 	<key>selectedMode</key>
 	<integer>0</integer>
