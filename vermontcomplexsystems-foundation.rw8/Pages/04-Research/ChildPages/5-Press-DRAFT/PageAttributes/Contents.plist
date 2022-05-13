@@ -28,52 +28,82 @@
 				<key>CreditRapidWeaver</key>
 				<true/>
 				<key>CustomCSS</key>
-				<string>
-/*---BUTTONS----*/
+				<string>/* SORT and FILTER menus */
+
+.accordion-menu {
+    width: 200px;
+	margin:auto;
+  }
+  
+  .menu-label{
+    color: #000;
+    font-size: 1.1rem;
+    font-weight: 400;
+    letter-spacing: 1px;
+  
+      text-align:center;
+      vertical-align:middle;
+  
+    display: block;
+    margin: 0;
+    padding : 10px;
+    background-color: rgba(166, 213, 238, .4);
+    cursor: pointer;
+  }
+  .menu-input{
+    display: none;
+  }
+  
+  .menu-label:hover {
+        background-color: rgba(166, 213, 238, 1);
+      }
+  
+  .menu-list{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .menu-list li{
+    line-height: 0;
+  }
+  .menu-list a {
+    display: block;
+    padding: 0 10px;
+    background-color: rgba(211, 211, 211, .2);
+    text-decoration: none;
+    color: #000;
+    transition: all 0.4s ease-out;
+  }
+  
+  .menu-list a:hover{
+        background-color: rgba(211, 211, 211, .5);
+      }
+  
+  .menu-list a span, .menu-list span{
+    display: block;
+    opacity: 0;
+    line-height: 0;
+    transition: all 0.1s ease-out;
+  }
+  
+  #menu-01:checked + .menu-list a, #menu-02:checked + .menu-list a {
+    padding: 10px;
+    border: solid 1px rgba(211, 211, 211, .3);
+    border-bottom: none;
+  }
+  #menu-01:checked + .menu-list a span, #menu-02:checked + .menu-list a span{
+    opacity: 1;
+    line-height: 1.4;
+  }
+  #menu-01:checked + .menu-list li:last-child a, #menu-02:checked + .menu-list li:last-child a{
+    border: solid 1px rgba(211, 211, 211, .3);
+  }
 
 .controls{
   margin: auto;
   width: 70%;
   padding: 10px;	
 }
-
-button {
-	display: inline-block;
-  margin: .4rem;
-  padding: 0.75rem 1rem;
-	border: 0;
-	background-color: rgba(166, 213, 238, .4);
-	color: #000;
-	text-decoration: none;
-	font-weight: 400;
-	font-size: 1rem;
-  line-height: 1.5;
-	cursor: pointer;
-}
-
-button:hover {
-  background-color: rgba(166, 213, 238, 1);
-  	color: #000;
-  outline: 0 none;
-
-}
-
-.button:active {
-    background-color:rgba(166, 213, 238, 1);
-	box-shadow: inset 0 3px 4px hsla(0, 0%, 0%, 0.2);
-}
-
-.button:focus {
-	background-color: rgba(166, 213, 238, 1);
-}
-
-span.mylabel{
-  color: #000;
-  font-size: 1rem;
-  line-height: 1.5;   
-  font-weight: 700;
-}
-
 
 /*---CARDS----*/
 
