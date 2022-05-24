@@ -28,25 +28,184 @@
 				<key>CreditRapidWeaver</key>
 				<true/>
 				<key>CustomCSS</key>
-				<string>@media only screen and (max-width: 50em) { 
-.jack-wrapper h1 small {
-display:block;
-margin-bottom:1rem;
+				<string>/* SORT and FILTER menus */
+
+.accordion-menu {
+    width: 200px;
+	margin:auto;
+  }
+  
+  .menu-label{
+    color: #000;
+    font-size: 1.1rem;
+    font-weight: 400;
+    letter-spacing: 1px;
+  
+      text-align:center;
+      vertical-align:middle;
+  
+    display: block;
+    margin: 0;
+    padding : 10px;
+    background-color: rgba(166, 213, 238, .4);
+    cursor: pointer;
+  }
+  .menu-input{
+    display: none;
+  }
+  
+  .menu-label:hover {
+        background-color: rgba(166, 213, 238, 1);
+      }
+  
+  .menu-list{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .menu-list li{
+    line-height: 0;
+  }
+  .menu-list a {
+    display: block;
+    padding: 0 10px;
+    background-color: rgba(211, 211, 211, .2);
+    text-decoration: none;
+    color: #000;
+    transition: all 0.4s ease-out;
+  }
+  
+  .menu-list a:hover{
+        background-color: rgba(211, 211, 211, .5);
+      }
+  
+  .menu-list a span, .menu-list span{
+    display: block;
+    opacity: 0;
+    line-height: 0;
+    transition: all 0.1s ease-out;
+  }
+  
+  #menu-01:checked + .menu-list a, #menu-02:checked + .menu-list a {
+    padding: 10px;
+    border: solid 1px rgba(211, 211, 211, .3);
+    border-bottom: none;
+  }
+  #menu-01:checked + .menu-list a span, #menu-02:checked + .menu-list a span{
+    opacity: 1;
+    line-height: 1.4;
+  }
+  #menu-01:checked + .menu-list li:last-child a, #menu-02:checked + .menu-list li:last-child a{
+    border: solid 1px rgba(211, 211, 211, .3);
+  }
+
+.controls{
+  margin: auto;
+  width: 70%;
+  padding: 10px;	
 }
 
-}</string>
+/*---CARDS----*/
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  color: #272727;
+  font-weight: 400;
+  letter-spacing: 0;
+  padding: 1rem;
+}
+
+.main{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cards_item {
+  display: flex;
+  padding: 1rem;
+}
+
+@media (min-width: 35rem) {
+  .cards_item {
+    width: 50%; 
+  }
+}
+
+@media (min-width: 49rem) {
+  .cards_item {
+    width: 33.3333%; 
+  }
+}
+
+
+@media (min-width: 65rem) { 
+  .cards_item {
+    width: 25%;
+  }
+}
+
+.card {
+   background-color: rgba(166, 213, 238, .4);
+  border-radius: 0.25rem;
+  box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.card_content {
+  padding: 1rem;  
+}
+
+.card_title {
+  color: #000;
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 0px;
+}
+
+.card_title:hover {
+	color: #3333FF;
+	}
+
+.card_text {
+  color: #000;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;    
+  font-weight: 400;
+}
+	
+</string>
 				<key>CustomCopyrightUsed</key>
 				<false/>
 				<key>CustomHeader</key>
-				<string>&lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;
-&lt;script async src="https://www.googletagmanager.com/gtag/js?id=UA-122716818-1"&gt;&lt;/script&gt;
-&lt;script&gt;
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-122716818-1');
-&lt;/script&gt;
+				<string>
 </string>
 				<key>CustomSiteTitleUsed</key>
 				<false/>
@@ -71,7 +230,7 @@ margin-bottom:1rem;
 				<key>IndexFilename</key>
 				<string>index.html</string>
 				<key>MetaDescription</key>
-				<string>Publications from Faculty at the Vermont Complex Systems Center</string>
+				<string>Press about the Vermont Complex Systems Center</string>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>
@@ -83,9 +242,9 @@ margin-bottom:1rem;
 				<key>RobotsShouldIndexPage</key>
 				<true/>
 				<key>ShouldEnableRobotTags</key>
-				<true/>
+				<false/>
 				<key>ShouldEnableSocialTags</key>
-				<true/>
+				<false/>
 				<key>SidebarEnabled</key>
 				<integer>1</integer>
 				<key>SidebarTitle</key>
@@ -95,9 +254,9 @@ margin-bottom:1rem;
 				<key>Variables</key>
 				<dict/>
 				<key>openGraphDescription</key>
-				<string>Publications from Faculty at the Vermont Complex Systems Center</string>
+				<string>Press about the Vermont Complex Systems Center</string>
 				<key>openGraphTitle</key>
-				<string>Vermont Complex Systems Center Publications</string>
+				<string>Press about the Vermont Complex Systems Center</string>
 			</dict>
 			<key>Files</key>
 			<array/>
