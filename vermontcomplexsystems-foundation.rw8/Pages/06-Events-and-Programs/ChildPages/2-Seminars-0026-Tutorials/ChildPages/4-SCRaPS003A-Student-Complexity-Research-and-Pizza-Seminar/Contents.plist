@@ -35,7 +35,7 @@
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2022-05-16T19:49:34Z</date>
+						<date>2022-08-03T10:51:03Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -120,6 +120,16 @@
 								<key>Size</key>
 								<integer>19470</integer>
 							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								wgmIAuepvJFg
+								INqwDCfPXQ==
+								</data>
+								<key>Size</key>
+								<integer>1879</integer>
+							</dict>
 							<key>files/stacks_page_page12.css</key>
 							<dict>
 								<key>Digest</key>
@@ -144,17 +154,17 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								9lwbjwFFzDDN
-								tiQItK63DQ==
+								+Xsjtd8F8mqQ
+								pfg56M++TA==
 								</data>
 								<key>Size</key>
-								<integer>40199</integer>
+								<integer>40331</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page12</string>
 						<key>SiteRoot</key>
-						<string>events/Seminars-Tutorials/scraps</string>
+						<string>events/Seminars-Tutorials/scraps-seminar</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
