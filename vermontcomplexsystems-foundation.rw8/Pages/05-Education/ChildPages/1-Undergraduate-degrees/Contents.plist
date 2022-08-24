@@ -28,14 +28,14 @@
 					<key>Name</key>
 					<string>Stacks</string>
 					<key>Version</key>
-					<string>4.2.4</string>
+					<string>4.2.5</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>sftp://cmplxsys.w3.uvm.edu</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2022-08-03T10:51:03Z</date>
+						<date>2022-08-24T20:20:33Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -184,11 +184,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								biWonB/ZTqHx
-								hF6kHCcs5g==
+								6lj2g5uFRKPU
+								eaNjVsgajw==
 								</data>
 								<key>Size</key>
-								<integer>51444</integer>
+								<integer>51691</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
