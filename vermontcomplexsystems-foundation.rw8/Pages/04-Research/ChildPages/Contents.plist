@@ -13,15 +13,16 @@
 			<array/>
 			<key>Subsandwiches</key>
 			<array>
-				<string>1-Research-Groups</string>
-				<string>2-CEL</string>
-				<string>3-Publications</string>
-				<string>4-Press</string>
-				<string>5-Media</string>
-				<string>6-Funding</string>
-				<string>7-What-are-Complex-Systems</string>
-				<string>8-ARCHIVE_Publications</string>
-				<string>9-ARCHIVE_Press-</string>
+				<string>01-Research-Groups</string>
+				<string>02-Projects</string>
+				<string>03-CEL</string>
+				<string>04-Publications</string>
+				<string>05-Press</string>
+				<string>06-Media</string>
+				<string>07-Funding</string>
+				<string>08-What-are-Complex-Systems</string>
+				<string>09-ARCHIVE_Publications</string>
+				<string>10-ARCHIVE_Press-</string>
 			</array>
 		</dict>
 	</array>
