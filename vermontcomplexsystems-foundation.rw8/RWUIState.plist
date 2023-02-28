@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>expandedItems</key>
-	<array/>
+	<array>
+		<string>page2</string>
+	</array>
 	<key>pageInspectorVisible</key>
 	<true/>
 	<key>projectViewVisible</key>
@@ -11,7 +13,7 @@
 	<key>projectViewWidth</key>
 	<real>248</real>
 	<key>selectedInspectorTab</key>
-	<string>pageSettings</string>
+	<string>info</string>
 	<key>selectedItems</key>
 	<array>
 		<string>page48</string>
