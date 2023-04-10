@@ -5,12 +5,13 @@
 	<key>expandedItems</key>
 	<array>
 		<string>page22</string>
+		<string>page9</string>
 		<string>page16</string>
 		<string>page87</string>
 		<string>page2</string>
 	</array>
 	<key>pageInspectorVisible</key>
-	<false/>
+	<true/>
 	<key>projectViewVisible</key>
 	<true/>
 	<key>projectViewWidth</key>
@@ -19,7 +20,7 @@
 	<string>pageSettings</string>
 	<key>selectedItems</key>
 	<array>
-		<string>page22</string>
+		<string>page7</string>
 	</array>
 	<key>selectedMode</key>
 	<integer>0</integer>
