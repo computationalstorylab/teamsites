@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>BrowserTitle</key>
+				<string>CCSS 2023</string>
+				<key>CreatedDate</key>
+				<date>2023-08-01T14:43:12Z</date>
+				<key>ID</key>
+				<string>page60</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Theme Default</string>
+				<key>PageTitle</key>
+				<string>CCSS 2023</string>
+				<key>PluginClassName</key>
+				<string>RWOffsitePagePlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>Realmac Software</string>
+					<key>Name</key>
+					<string>Offsite Page</string>
+					<key>Version</key>
+					<string>7.0</string>
+				</dict>
+				<key>PublishingManifests</key>
+				<dict>
+					<key>sftp://cmplxsys.w3.uvm.edu</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2023-08-01T14:58:04Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								fnA/qwaXyKIy
+								ipzUshPGNw==
+								</data>
+								<key>Size</key>
+								<integer>6714</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page60</string>
+						<key>SiteRoot</key>
+						<string>events/ccss-2023</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>Data</string>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>
