@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict/>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>01-ARCHIVE-NetSci-Logistics</string>
+				<string>02-NetSci-Logistics</string>
+				<string>03-ARCHIVE-NetSci-Registration</string>
+				<string>04-NetSci-Registration</string>
+				<string>05-ARCHIVE-NetSci-Schedule</string>
+				<string>06-NetSci-Schedule</string>
+				<string>07-NetSci-Calls</string>
+				<string>08-ARCHIVE-NetSci-Speakers</string>
+				<string>09-NetSci-Speakers</string>
+				<string>10-ARCHIVE-NetSci-Sponsors</string>
+				<string>11-NetSci-Sponsors</string>
+				<string>12-ARCHIVE-NetSci-Organizers</string>
+				<string>13-NetSci-Organizers-Copy</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Pages</string>
+</dict>
+</plist>
